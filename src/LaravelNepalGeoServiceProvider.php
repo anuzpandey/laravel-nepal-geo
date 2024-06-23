@@ -1,10 +1,11 @@
 <?php
 
+declare(strict_types=1);
+
 namespace AnuzPandey\LaravelNepalGeo;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AnuzPandey\LaravelNepalGeo\Commands\LaravelNepalGeoCommand;
 
 class LaravelNepalGeoServiceProvider extends PackageServiceProvider
 {

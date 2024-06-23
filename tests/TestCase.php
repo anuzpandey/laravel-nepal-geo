@@ -1,10 +1,12 @@
 <?php
 
+declare(strict_types=1);
+
 namespace AnuzPandey\LaravelNepalGeo\Tests;
 
+use AnuzPandey\LaravelNepalGeo\LaravelNepalGeoServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use AnuzPandey\LaravelNepalGeo\LaravelNepalGeoServiceProvider;
 
 class TestCase extends Orchestra
 {
@@ -13,15 +15,8 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'AnuzPandey\\LaravelNepalGeo\\Database\\Factories\\'.class_basename($modelName).'Factory'
+            fn (string $modelName) => 'AnuzPandey\\LaravelNepalGeo\\Database\\Factories\\' . class_basename($modelName) . 'Factory'
         );
-    }
-
-    protected function getPackageProviders($app)
-    {
-        return [
-            LaravelNepalGeoServiceProvider::class,
-        ];
     }
 
     public function getEnvironmentSetUp($app)
@@ -32,5 +27,12 @@ class TestCase extends Orchestra
         $migration = include __DIR__.'/../database/migrations/create_laravel-nepal-geo_table.php.stub';
         $migration->up();
         */
+    }
+
+    protected function getPackageProviders($app)
+    {
+        return [
+            LaravelNepalGeoServiceProvider::class,
+        ];
     }
 }
