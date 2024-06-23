@@ -19,7 +19,6 @@ class StateSeeder extends Seeder
 
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 05:18:23',
-                'deleted_at' => null,
             ],
             [
                 'id' => 2,
@@ -28,7 +27,6 @@ class StateSeeder extends Seeder
 
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:19:47',
-                'deleted_at' => null,
             ],
             [
                 'id' => 3,
@@ -37,7 +35,6 @@ class StateSeeder extends Seeder
 
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2020-11-05 00:07:22',
-                'deleted_at' => null,
             ],
             [
                 'id' => 4,
@@ -46,7 +43,6 @@ class StateSeeder extends Seeder
 
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-04-04 03:54:10',
-                'deleted_at' => null,
             ],
             [
                 'id' => 5,
@@ -55,7 +51,6 @@ class StateSeeder extends Seeder
 
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:20:24',
-                'deleted_at' => null,
             ],
             [
                 'id' => 6,
@@ -64,7 +59,6 @@ class StateSeeder extends Seeder
 
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-04-04 03:55:09',
-                'deleted_at' => null,
             ],
             [
                 'id' => 7,
@@ -73,7 +67,6 @@ class StateSeeder extends Seeder
 
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-04-04 15:20:46',
-                'deleted_at' => null,
             ],
         ]);
     }

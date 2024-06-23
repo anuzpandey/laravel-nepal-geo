@@ -22,7 +22,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:06:51',
-                'deleted_at' => null,
             ],
             1 => [
                 'id' => 2,
@@ -34,7 +33,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:07:31',
-                'deleted_at' => null,
             ],
             2 => [
                 'id' => 3,
@@ -46,7 +44,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:12:01',
-                'deleted_at' => null,
             ],
             3 => [
                 'id' => 4,
@@ -58,7 +55,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:12:08',
-                'deleted_at' => null,
             ],
             4 => [
                 'id' => 5,
@@ -70,7 +66,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:13:08',
-                'deleted_at' => null,
             ],
             5 => [
                 'id' => 6,
@@ -82,7 +77,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:13:44',
-                'deleted_at' => null,
             ],
             6 => [
                 'id' => 7,
@@ -94,7 +88,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:14:43',
-                'deleted_at' => null,
             ],
             7 => [
                 'id' => 8,
@@ -106,7 +99,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:15:15',
-                'deleted_at' => null,
             ],
             8 => [
                 'id' => 9,
@@ -118,7 +110,6 @@ class CitySeeder extends Seeder
                 'district_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:16:48',
-                'deleted_at' => null,
             ],
             9 => [
                 'id' => 10,
@@ -130,7 +121,6 @@ class CitySeeder extends Seeder
                 'district_id' => 2,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:19:32',
-                'deleted_at' => null,
             ],
             10 => [
                 'id' => 11,
@@ -142,7 +132,6 @@ class CitySeeder extends Seeder
                 'district_id' => 2,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:20:00',
-                'deleted_at' => null,
             ],
             11 => [
                 'id' => 12,
@@ -154,7 +143,6 @@ class CitySeeder extends Seeder
                 'district_id' => 2,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:20:26',
-                'deleted_at' => null,
             ],
             12 => [
                 'id' => 13,
@@ -166,7 +154,6 @@ class CitySeeder extends Seeder
                 'district_id' => 2,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:20:57',
-                'deleted_at' => null,
             ],
             13 => [
                 'id' => 14,
@@ -178,7 +165,6 @@ class CitySeeder extends Seeder
                 'district_id' => 2,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:21:35',
-                'deleted_at' => null,
             ],
             14 => [
                 'id' => 15,
@@ -190,7 +176,6 @@ class CitySeeder extends Seeder
                 'district_id' => 2,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:22:37',
-                'deleted_at' => null,
             ],
             15 => [
                 'id' => 16,
@@ -202,7 +187,6 @@ class CitySeeder extends Seeder
                 'district_id' => 2,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:23:13',
-                'deleted_at' => null,
             ],
             16 => [
                 'id' => 17,
@@ -214,7 +198,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:24:43',
-                'deleted_at' => null,
             ],
             17 => [
                 'id' => 18,
@@ -226,7 +209,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:25:08',
-                'deleted_at' => null,
             ],
             18 => [
                 'id' => 19,
@@ -238,7 +220,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:25:27',
-                'deleted_at' => null,
             ],
             19 => [
                 'id' => 20,
@@ -250,7 +231,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:26:18',
-                'deleted_at' => null,
             ],
             20 => [
                 'id' => 21,
@@ -262,7 +242,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:26:42',
-                'deleted_at' => null,
             ],
             21 => [
                 'id' => 22,
@@ -274,7 +253,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:27:09',
-                'deleted_at' => null,
             ],
             22 => [
                 'id' => 23,
@@ -286,7 +264,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:27:29',
-                'deleted_at' => null,
             ],
             23 => [
                 'id' => 24,
@@ -298,7 +275,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:28:02',
-                'deleted_at' => null,
             ],
             24 => [
                 'id' => 25,
@@ -310,7 +286,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 06:28:27',
-                'deleted_at' => null,
             ],
             25 => [
                 'id' => 26,
@@ -322,7 +297,6 @@ class CitySeeder extends Seeder
                 'district_id' => 3,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:28:57',
-                'deleted_at' => null,
             ],
             26 => [
                 'id' => 27,
@@ -334,7 +308,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:33:27',
-                'deleted_at' => null,
             ],
             27 => [
                 'id' => 28,
@@ -346,7 +319,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:33:48',
-                'deleted_at' => null,
             ],
             28 => [
                 'id' => 29,
@@ -358,7 +330,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:34:07',
-                'deleted_at' => null,
             ],
             29 => [
                 'id' => 30,
@@ -370,7 +341,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:34:33',
-                'deleted_at' => null,
             ],
             30 => [
                 'id' => 31,
@@ -382,7 +352,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:34:57',
-                'deleted_at' => null,
             ],
             31 => [
                 'id' => 32,
@@ -394,7 +363,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:35:13',
-                'deleted_at' => null,
             ],
             32 => [
                 'id' => 33,
@@ -406,7 +374,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:35:31',
-                'deleted_at' => null,
             ],
             33 => [
                 'id' => 34,
@@ -418,7 +385,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:35:56',
-                'deleted_at' => null,
             ],
             34 => [
                 'id' => 35,
@@ -430,7 +396,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:36:10',
-                'deleted_at' => null,
             ],
             35 => [
                 'id' => 36,
@@ -442,7 +407,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:36:26',
-                'deleted_at' => null,
             ],
             36 => [
                 'id' => 37,
@@ -454,7 +418,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:36:48',
-                'deleted_at' => null,
             ],
             37 => [
                 'id' => 38,
@@ -466,7 +429,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:37:05',
-                'deleted_at' => null,
             ],
             38 => [
                 'id' => 39,
@@ -478,7 +440,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:37:30',
-                'deleted_at' => null,
             ],
             39 => [
                 'id' => 40,
@@ -490,7 +451,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:37:48',
-                'deleted_at' => null,
             ],
             40 => [
                 'id' => 41,
@@ -502,7 +462,6 @@ class CitySeeder extends Seeder
                 'district_id' => 4,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:38:12',
-                'deleted_at' => null,
             ],
             41 => [
                 'id' => 42,
@@ -514,7 +473,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:39:37',
-                'deleted_at' => null,
             ],
             42 => [
                 'id' => 43,
@@ -526,7 +484,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:39:52',
-                'deleted_at' => null,
             ],
             43 => [
                 'id' => 44,
@@ -538,7 +495,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:40:08',
-                'deleted_at' => null,
             ],
             44 => [
                 'id' => 45,
@@ -550,7 +506,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:40:23',
-                'deleted_at' => null,
             ],
             45 => [
                 'id' => 46,
@@ -562,7 +517,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:40:42',
-                'deleted_at' => null,
             ],
             46 => [
                 'id' => 47,
@@ -574,7 +528,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:41:01',
-                'deleted_at' => null,
             ],
             47 => [
                 'id' => 48,
@@ -586,7 +539,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:41:14',
-                'deleted_at' => null,
             ],
             48 => [
                 'id' => 49,
@@ -598,7 +550,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:41:30',
-                'deleted_at' => null,
             ],
             49 => [
                 'id' => 50,
@@ -610,7 +561,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:41:42',
-                'deleted_at' => null,
             ],
             50 => [
                 'id' => 51,
@@ -622,7 +572,6 @@ class CitySeeder extends Seeder
                 'district_id' => 5,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:41:56',
-                'deleted_at' => null,
             ],
             51 => [
                 'id' => 52,
@@ -634,7 +583,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:43:24',
-                'deleted_at' => null,
             ],
             52 => [
                 'id' => 53,
@@ -646,7 +594,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:43:40',
-                'deleted_at' => null,
             ],
             53 => [
                 'id' => 54,
@@ -658,7 +605,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:43:57',
-                'deleted_at' => null,
             ],
             54 => [
                 'id' => 55,
@@ -670,7 +616,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:44:15',
-                'deleted_at' => null,
             ],
             55 => [
                 'id' => 56,
@@ -682,7 +627,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:44:46',
-                'deleted_at' => null,
             ],
             56 => [
                 'id' => 57,
@@ -694,7 +638,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:45:11',
-                'deleted_at' => null,
             ],
             57 => [
                 'id' => 58,
@@ -706,7 +649,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:45:50',
-                'deleted_at' => null,
             ],
             58 => [
                 'id' => 59,
@@ -718,7 +660,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:46:15',
-                'deleted_at' => null,
             ],
             59 => [
                 'id' => 60,
@@ -730,7 +671,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:46:41',
-                'deleted_at' => null,
             ],
             60 => [
                 'id' => 61,
@@ -742,7 +682,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:47:05',
-                'deleted_at' => null,
             ],
             61 => [
                 'id' => 62,
@@ -754,7 +693,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:48:07',
-                'deleted_at' => null,
             ],
             62 => [
                 'id' => 63,
@@ -766,7 +704,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:48:30',
-                'deleted_at' => null,
             ],
             63 => [
                 'id' => 64,
@@ -778,7 +715,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:48:46',
-                'deleted_at' => null,
             ],
             64 => [
                 'id' => 65,
@@ -790,7 +726,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:49:08',
-                'deleted_at' => null,
             ],
             65 => [
                 'id' => 66,
@@ -802,7 +737,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:49:31',
-                'deleted_at' => null,
             ],
             66 => [
                 'id' => 67,
@@ -814,7 +748,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:50:10',
-                'deleted_at' => null,
             ],
             67 => [
                 'id' => 68,
@@ -826,7 +759,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:50:26',
-                'deleted_at' => null,
             ],
             68 => [
                 'id' => 69,
@@ -838,7 +770,6 @@ class CitySeeder extends Seeder
                 'district_id' => 6,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:51:16',
-                'deleted_at' => null,
             ],
             69 => [
                 'id' => 70,
@@ -850,7 +781,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:54:37',
-                'deleted_at' => null,
             ],
             70 => [
                 'id' => 71,
@@ -862,7 +792,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:55:05',
-                'deleted_at' => null,
             ],
             71 => [
                 'id' => 72,
@@ -874,7 +803,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:56:15',
-                'deleted_at' => null,
             ],
             72 => [
                 'id' => 73,
@@ -886,7 +814,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:57:14',
-                'deleted_at' => null,
             ],
             73 => [
                 'id' => 74,
@@ -898,7 +825,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:57:34',
-                'deleted_at' => null,
             ],
             74 => [
                 'id' => 75,
@@ -910,7 +836,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:58:31',
-                'deleted_at' => null,
             ],
             75 => [
                 'id' => 76,
@@ -922,7 +847,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:59:11',
-                'deleted_at' => null,
             ],
             76 => [
                 'id' => 77,
@@ -934,7 +858,6 @@ class CitySeeder extends Seeder
                 'district_id' => 7,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:59:40',
-                'deleted_at' => null,
             ],
             77 => [
                 'id' => 78,
@@ -946,7 +869,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:00:46',
-                'deleted_at' => null,
             ],
             78 => [
                 'id' => 79,
@@ -958,7 +880,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:03',
-                'deleted_at' => null,
             ],
             79 => [
                 'id' => 80,
@@ -970,7 +891,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:21',
-                'deleted_at' => null,
             ],
             80 => [
                 'id' => 81,
@@ -982,7 +902,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:37',
-                'deleted_at' => null,
             ],
             81 => [
                 'id' => 82,
@@ -994,7 +913,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:51',
-                'deleted_at' => null,
             ],
             82 => [
                 'id' => 83,
@@ -1006,7 +924,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:09',
-                'deleted_at' => null,
             ],
             83 => [
                 'id' => 84,
@@ -1018,7 +935,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:28',
-                'deleted_at' => null,
             ],
             84 => [
                 'id' => 85,
@@ -1030,7 +946,6 @@ class CitySeeder extends Seeder
                 'district_id' => 8,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:46',
-                'deleted_at' => null,
             ],
             85 => [
                 'id' => 86,
@@ -1042,7 +957,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:03:43',
-                'deleted_at' => null,
             ],
             86 => [
                 'id' => 87,
@@ -1054,7 +968,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:03:59',
-                'deleted_at' => null,
             ],
             87 => [
                 'id' => 88,
@@ -1066,7 +979,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:04:21',
-                'deleted_at' => null,
             ],
             88 => [
                 'id' => 89,
@@ -1078,7 +990,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:04:37',
-                'deleted_at' => null,
             ],
             89 => [
                 'id' => 90,
@@ -1090,7 +1001,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:04:56',
-                'deleted_at' => null,
             ],
             90 => [
                 'id' => 91,
@@ -1102,7 +1012,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:54:17',
-                'deleted_at' => null,
             ],
             91 => [
                 'id' => 92,
@@ -1114,7 +1023,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:54:35',
-                'deleted_at' => null,
             ],
             92 => [
                 'id' => 93,
@@ -1126,7 +1034,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:54:45',
-                'deleted_at' => null,
             ],
             93 => [
                 'id' => 94,
@@ -1138,7 +1045,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:54:53',
-                'deleted_at' => null,
             ],
             94 => [
                 'id' => 95,
@@ -1150,7 +1056,6 @@ class CitySeeder extends Seeder
                 'district_id' => 9,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:55:03',
-                'deleted_at' => null,
             ],
             95 => [
                 'id' => 96,
@@ -1162,7 +1067,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:58:34',
-                'deleted_at' => null,
             ],
             96 => [
                 'id' => 97,
@@ -1174,7 +1078,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:58:42',
-                'deleted_at' => null,
             ],
             97 => [
                 'id' => 98,
@@ -1186,7 +1089,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:58:55',
-                'deleted_at' => null,
             ],
             98 => [
                 'id' => 99,
@@ -1198,7 +1100,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:59:48',
-                'deleted_at' => null,
             ],
             99 => [
                 'id' => 100,
@@ -1210,7 +1111,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 06:59:59',
-                'deleted_at' => null,
             ],
             100 => [
                 'id' => 101,
@@ -1222,7 +1122,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:00:09',
-                'deleted_at' => null,
             ],
             101 => [
                 'id' => 102,
@@ -1234,7 +1133,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:00:22',
-                'deleted_at' => null,
             ],
             102 => [
                 'id' => 103,
@@ -1246,7 +1144,6 @@ class CitySeeder extends Seeder
                 'district_id' => 10,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:00:34',
-                'deleted_at' => null,
             ],
             103 => [
                 'id' => 104,
@@ -1258,7 +1155,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:00:59',
-                'deleted_at' => null,
             ],
             104 => [
                 'id' => 105,
@@ -1270,7 +1166,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:12',
-                'deleted_at' => null,
             ],
             105 => [
                 'id' => 106,
@@ -1282,7 +1177,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:24',
-                'deleted_at' => null,
             ],
             106 => [
                 'id' => 107,
@@ -1294,7 +1188,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:36',
-                'deleted_at' => null,
             ],
             107 => [
                 'id' => 108,
@@ -1306,7 +1199,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:44',
-                'deleted_at' => null,
             ],
             108 => [
                 'id' => 109,
@@ -1318,7 +1210,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:01:53',
-                'deleted_at' => null,
             ],
             109 => [
                 'id' => 110,
@@ -1330,7 +1221,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:09',
-                'deleted_at' => null,
             ],
             110 => [
                 'id' => 111,
@@ -1342,7 +1232,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:17',
-                'deleted_at' => null,
             ],
             111 => [
                 'id' => 112,
@@ -1354,7 +1243,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:27',
-                'deleted_at' => null,
             ],
             112 => [
                 'id' => 113,
@@ -1366,7 +1254,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:37',
-                'deleted_at' => null,
             ],
             113 => [
                 'id' => 114,
@@ -1378,7 +1265,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:02:51',
-                'deleted_at' => null,
             ],
             114 => [
                 'id' => 115,
@@ -1390,7 +1276,6 @@ class CitySeeder extends Seeder
                 'district_id' => 11,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:03:04',
-                'deleted_at' => null,
             ],
             115 => [
                 'id' => 116,
@@ -1402,7 +1287,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:04:23',
-                'deleted_at' => null,
             ],
             116 => [
                 'id' => 117,
@@ -1414,7 +1298,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:04:31',
-                'deleted_at' => null,
             ],
             117 => [
                 'id' => 118,
@@ -1426,7 +1309,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:05:01',
-                'deleted_at' => null,
             ],
             118 => [
                 'id' => 119,
@@ -1438,7 +1320,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:05:26',
-                'deleted_at' => null,
             ],
             119 => [
                 'id' => 120,
@@ -1450,7 +1331,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:06:23',
-                'deleted_at' => null,
             ],
             120 => [
                 'id' => 121,
@@ -1462,7 +1342,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:06:07',
-                'deleted_at' => null,
             ],
             121 => [
                 'id' => 122,
@@ -1474,7 +1353,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:06:29',
-                'deleted_at' => null,
             ],
             122 => [
                 'id' => 123,
@@ -1486,7 +1364,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:06:49',
-                'deleted_at' => null,
             ],
             123 => [
                 'id' => 124,
@@ -1498,7 +1375,6 @@ class CitySeeder extends Seeder
                 'district_id' => 12,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:07:17',
-                'deleted_at' => null,
             ],
             124 => [
                 'id' => 125,
@@ -1510,7 +1386,6 @@ class CitySeeder extends Seeder
                 'district_id' => 13,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 07:07:57',
-                'deleted_at' => null,
             ],
             125 => [
                 'id' => 126,
@@ -1522,7 +1397,6 @@ class CitySeeder extends Seeder
                 'district_id' => 13,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:08:12',
-                'deleted_at' => null,
             ],
             126 => [
                 'id' => 127,
@@ -1534,7 +1408,6 @@ class CitySeeder extends Seeder
                 'district_id' => 13,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:08:26',
-                'deleted_at' => null,
             ],
             127 => [
                 'id' => 128,
@@ -1546,7 +1419,6 @@ class CitySeeder extends Seeder
                 'district_id' => 13,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:08:42',
-                'deleted_at' => null,
             ],
             128 => [
                 'id' => 129,
@@ -1558,7 +1430,6 @@ class CitySeeder extends Seeder
                 'district_id' => 13,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:09:03',
-                'deleted_at' => null,
             ],
             129 => [
                 'id' => 130,
@@ -1570,7 +1441,6 @@ class CitySeeder extends Seeder
                 'district_id' => 13,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:09:27',
-                'deleted_at' => null,
             ],
             130 => [
                 'id' => 131,
@@ -1582,7 +1452,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:10:31',
-                'deleted_at' => null,
             ],
             131 => [
                 'id' => 132,
@@ -1594,7 +1463,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:10:48',
-                'deleted_at' => null,
             ],
             132 => [
                 'id' => 133,
@@ -1606,7 +1474,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:01',
-                'deleted_at' => null,
             ],
             133 => [
                 'id' => 134,
@@ -1618,7 +1485,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:16',
-                'deleted_at' => null,
             ],
             134 => [
                 'id' => 135,
@@ -1630,7 +1496,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:40',
-                'deleted_at' => null,
             ],
             135 => [
                 'id' => 136,
@@ -1642,7 +1507,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:07:05',
-                'deleted_at' => null,
             ],
             136 => [
                 'id' => 137,
@@ -1654,7 +1518,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:07:14',
-                'deleted_at' => null,
             ],
             137 => [
                 'id' => 138,
@@ -1666,7 +1529,6 @@ class CitySeeder extends Seeder
                 'district_id' => 14,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:07:22',
-                'deleted_at' => null,
             ],
             138 => [
                 'id' => 139,
@@ -1678,7 +1540,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:08:18',
-                'deleted_at' => null,
             ],
             139 => [
                 'id' => 140,
@@ -1690,7 +1551,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:08:36',
-                'deleted_at' => null,
             ],
             140 => [
                 'id' => 141,
@@ -1702,7 +1562,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:08:49',
-                'deleted_at' => null,
             ],
             141 => [
                 'id' => 142,
@@ -1714,7 +1573,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:08:58',
-                'deleted_at' => null,
             ],
             142 => [
                 'id' => 143,
@@ -1726,7 +1584,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:09:20',
-                'deleted_at' => null,
             ],
             143 => [
                 'id' => 144,
@@ -1738,7 +1595,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:10:00',
-                'deleted_at' => null,
             ],
             144 => [
                 'id' => 145,
@@ -1750,7 +1606,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:10:09',
-                'deleted_at' => null,
             ],
             145 => [
                 'id' => 146,
@@ -1762,7 +1617,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:10:24',
-                'deleted_at' => null,
             ],
             146 => [
                 'id' => 147,
@@ -1774,7 +1628,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:10:42',
-                'deleted_at' => null,
             ],
             147 => [
                 'id' => 148,
@@ -1786,7 +1639,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:10:51',
-                'deleted_at' => null,
             ],
             148 => [
                 'id' => 149,
@@ -1798,7 +1650,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:10',
-                'deleted_at' => null,
             ],
             149 => [
                 'id' => 150,
@@ -1810,7 +1661,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:27',
-                'deleted_at' => null,
             ],
             150 => [
                 'id' => 151,
@@ -1822,7 +1672,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:41',
-                'deleted_at' => null,
             ],
             151 => [
                 'id' => 152,
@@ -1834,7 +1683,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:48',
-                'deleted_at' => null,
             ],
             152 => [
                 'id' => 153,
@@ -1846,7 +1694,6 @@ class CitySeeder extends Seeder
                 'district_id' => 15,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:11:55',
-                'deleted_at' => null,
             ],
             153 => [
                 'id' => 154,
@@ -1858,7 +1705,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:12:26',
-                'deleted_at' => null,
             ],
             154 => [
                 'id' => 155,
@@ -1870,7 +1716,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:12:57',
-                'deleted_at' => null,
             ],
             155 => [
                 'id' => 156,
@@ -1882,7 +1727,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:13:08',
-                'deleted_at' => null,
             ],
             156 => [
                 'id' => 157,
@@ -1894,7 +1738,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:13:18',
-                'deleted_at' => null,
             ],
             157 => [
                 'id' => 158,
@@ -1906,7 +1749,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:14:10',
-                'deleted_at' => null,
             ],
             158 => [
                 'id' => 159,
@@ -1918,7 +1760,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:14:20',
-                'deleted_at' => null,
             ],
             159 => [
                 'id' => 160,
@@ -1930,7 +1771,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:14:41',
-                'deleted_at' => null,
             ],
             160 => [
                 'id' => 161,
@@ -1942,7 +1782,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:14:55',
-                'deleted_at' => null,
             ],
             161 => [
                 'id' => 162,
@@ -1954,7 +1793,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:15:06',
-                'deleted_at' => null,
             ],
             162 => [
                 'id' => 163,
@@ -1966,7 +1804,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:15:17',
-                'deleted_at' => null,
             ],
             163 => [
                 'id' => 164,
@@ -1978,7 +1815,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:15:48',
-                'deleted_at' => null,
             ],
             164 => [
                 'id' => 165,
@@ -1990,7 +1826,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:16:23',
-                'deleted_at' => null,
             ],
             165 => [
                 'id' => 166,
@@ -2002,7 +1837,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:13:10',
-                'deleted_at' => null,
             ],
             166 => [
                 'id' => 167,
@@ -2014,7 +1848,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:13:28',
-                'deleted_at' => null,
             ],
             167 => [
                 'id' => 168,
@@ -2026,7 +1859,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:13:48',
-                'deleted_at' => null,
             ],
             168 => [
                 'id' => 169,
@@ -2038,7 +1870,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:14:09',
-                'deleted_at' => null,
             ],
             169 => [
                 'id' => 170,
@@ -2050,7 +1881,6 @@ class CitySeeder extends Seeder
                 'district_id' => 16,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:14:28',
-                'deleted_at' => null,
             ],
             170 => [
                 'id' => 171,
@@ -2062,7 +1892,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:15:06',
-                'deleted_at' => null,
             ],
             171 => [
                 'id' => 172,
@@ -2074,7 +1903,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:15:18',
-                'deleted_at' => null,
             ],
             172 => [
                 'id' => 173,
@@ -2086,7 +1914,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:15:32',
-                'deleted_at' => null,
             ],
             173 => [
                 'id' => 174,
@@ -2098,7 +1925,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:15:47',
-                'deleted_at' => null,
             ],
             174 => [
                 'id' => 175,
@@ -2110,7 +1936,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:16:05',
-                'deleted_at' => null,
             ],
             175 => [
                 'id' => 176,
@@ -2122,7 +1947,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:16:19',
-                'deleted_at' => null,
             ],
             176 => [
                 'id' => 177,
@@ -2134,7 +1958,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:16:37',
-                'deleted_at' => null,
             ],
             177 => [
                 'id' => 178,
@@ -2146,7 +1969,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:19:43',
-                'deleted_at' => null,
             ],
             178 => [
                 'id' => 179,
@@ -2158,7 +1980,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:20:00',
-                'deleted_at' => null,
             ],
             179 => [
                 'id' => 180,
@@ -2170,7 +1991,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:20:42',
-                'deleted_at' => null,
             ],
             180 => [
                 'id' => 181,
@@ -2182,7 +2002,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:21:21',
-                'deleted_at' => null,
             ],
             181 => [
                 'id' => 182,
@@ -2194,7 +2013,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:21:48',
-                'deleted_at' => null,
             ],
             182 => [
                 'id' => 183,
@@ -2206,7 +2024,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:22:26',
-                'deleted_at' => null,
             ],
             183 => [
                 'id' => 184,
@@ -2218,7 +2035,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:22:42',
-                'deleted_at' => null,
             ],
             184 => [
                 'id' => 185,
@@ -2230,7 +2046,6 @@ class CitySeeder extends Seeder
                 'district_id' => 17,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:22:57',
-                'deleted_at' => null,
             ],
             185 => [
                 'id' => 186,
@@ -2242,7 +2057,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:23:55',
-                'deleted_at' => null,
             ],
             186 => [
                 'id' => 187,
@@ -2254,7 +2068,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:24:18',
-                'deleted_at' => null,
             ],
             187 => [
                 'id' => 188,
@@ -2266,7 +2079,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:25:25',
-                'deleted_at' => null,
             ],
             188 => [
                 'id' => 189,
@@ -2278,7 +2090,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:25:43',
-                'deleted_at' => null,
             ],
             189 => [
                 'id' => 190,
@@ -2290,7 +2101,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:25:59',
-                'deleted_at' => null,
             ],
             190 => [
                 'id' => 191,
@@ -2302,7 +2112,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:26:27',
-                'deleted_at' => null,
             ],
             191 => [
                 'id' => 192,
@@ -2314,7 +2123,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:27:30',
-                'deleted_at' => null,
             ],
             192 => [
                 'id' => 193,
@@ -2326,7 +2134,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:28:01',
-                'deleted_at' => null,
             ],
             193 => [
                 'id' => 194,
@@ -2338,7 +2145,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:28:28',
-                'deleted_at' => null,
             ],
             194 => [
                 'id' => 195,
@@ -2350,7 +2156,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:29:18',
-                'deleted_at' => null,
             ],
             195 => [
                 'id' => 196,
@@ -2362,7 +2167,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:23:08',
-                'deleted_at' => null,
             ],
             196 => [
                 'id' => 197,
@@ -2374,7 +2178,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:23:24',
-                'deleted_at' => null,
             ],
             197 => [
                 'id' => 198,
@@ -2386,7 +2189,6 @@ class CitySeeder extends Seeder
                 'district_id' => 18,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:23:38',
-                'deleted_at' => null,
             ],
             198 => [
                 'id' => 199,
@@ -2398,7 +2200,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:24:02',
-                'deleted_at' => null,
             ],
             199 => [
                 'id' => 200,
@@ -2410,7 +2211,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:24:47',
-                'deleted_at' => null,
             ],
             200 => [
                 'id' => 201,
@@ -2422,7 +2222,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:24:57',
-                'deleted_at' => null,
             ],
             201 => [
                 'id' => 202,
@@ -2434,7 +2233,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:25:09',
-                'deleted_at' => null,
             ],
             202 => [
                 'id' => 203,
@@ -2446,7 +2244,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:25:18',
-                'deleted_at' => null,
             ],
             203 => [
                 'id' => 204,
@@ -2458,7 +2255,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:25:49',
-                'deleted_at' => null,
             ],
             204 => [
                 'id' => 205,
@@ -2470,7 +2266,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:25:58',
-                'deleted_at' => null,
             ],
             205 => [
                 'id' => 206,
@@ -2482,7 +2277,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:26:59',
-                'deleted_at' => null,
             ],
             206 => [
                 'id' => 207,
@@ -2494,7 +2288,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:27:16',
-                'deleted_at' => null,
             ],
             207 => [
                 'id' => 208,
@@ -2506,7 +2299,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:27:33',
-                'deleted_at' => null,
             ],
             208 => [
                 'id' => 209,
@@ -2518,7 +2310,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:27:49',
-                'deleted_at' => null,
             ],
             209 => [
                 'id' => 210,
@@ -2530,7 +2321,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:28:02',
-                'deleted_at' => null,
             ],
             210 => [
                 'id' => 211,
@@ -2542,7 +2332,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:30:31',
-                'deleted_at' => null,
             ],
             211 => [
                 'id' => 212,
@@ -2554,7 +2343,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:30:43',
-                'deleted_at' => null,
             ],
             212 => [
                 'id' => 213,
@@ -2566,7 +2354,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:31:37',
-                'deleted_at' => null,
             ],
             213 => [
                 'id' => 214,
@@ -2578,7 +2365,6 @@ class CitySeeder extends Seeder
                 'district_id' => 19,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:31:51',
-                'deleted_at' => null,
             ],
             214 => [
                 'id' => 215,
@@ -2590,7 +2376,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:33:31',
-                'deleted_at' => null,
             ],
             215 => [
                 'id' => 216,
@@ -2602,7 +2387,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:34:04',
-                'deleted_at' => null,
             ],
             216 => [
                 'id' => 217,
@@ -2614,7 +2398,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:34:35',
-                'deleted_at' => null,
             ],
             217 => [
                 'id' => 218,
@@ -2626,7 +2409,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:35:15',
-                'deleted_at' => null,
             ],
             218 => [
                 'id' => 219,
@@ -2638,7 +2420,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:35:39',
-                'deleted_at' => null,
             ],
             219 => [
                 'id' => 220,
@@ -2650,7 +2431,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:35:56',
-                'deleted_at' => null,
             ],
             220 => [
                 'id' => 221,
@@ -2662,7 +2442,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:36:24',
-                'deleted_at' => null,
             ],
             221 => [
                 'id' => 222,
@@ -2674,7 +2453,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:36:43',
-                'deleted_at' => null,
             ],
             222 => [
                 'id' => 223,
@@ -2686,7 +2464,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:37:55',
-                'deleted_at' => null,
             ],
             223 => [
                 'id' => 224,
@@ -2698,7 +2475,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:38:25',
-                'deleted_at' => null,
             ],
             224 => [
                 'id' => 225,
@@ -2710,7 +2486,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:38:41',
-                'deleted_at' => null,
             ],
             225 => [
                 'id' => 226,
@@ -2722,7 +2497,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:30:37',
-                'deleted_at' => null,
             ],
             226 => [
                 'id' => 227,
@@ -2734,7 +2508,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:31:28',
-                'deleted_at' => null,
             ],
             227 => [
                 'id' => 228,
@@ -2746,7 +2519,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:32:05',
-                'deleted_at' => null,
             ],
             228 => [
                 'id' => 229,
@@ -2758,7 +2530,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:32:14',
-                'deleted_at' => null,
             ],
             229 => [
                 'id' => 230,
@@ -2770,7 +2541,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:32:47',
-                'deleted_at' => null,
             ],
             230 => [
                 'id' => 231,
@@ -2782,7 +2552,6 @@ class CitySeeder extends Seeder
                 'district_id' => 20,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:33:02',
-                'deleted_at' => null,
             ],
             231 => [
                 'id' => 232,
@@ -2794,7 +2563,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:33:27',
-                'deleted_at' => null,
             ],
             232 => [
                 'id' => 233,
@@ -2806,7 +2574,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 07:33:41',
-                'deleted_at' => null,
             ],
             233 => [
                 'id' => 234,
@@ -2818,7 +2585,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:33:56',
-                'deleted_at' => null,
             ],
             234 => [
                 'id' => 235,
@@ -2830,7 +2596,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:34:04',
-                'deleted_at' => null,
             ],
             235 => [
                 'id' => 236,
@@ -2842,7 +2607,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:34:20',
-                'deleted_at' => null,
             ],
             236 => [
                 'id' => 237,
@@ -2854,7 +2618,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:34:40',
-                'deleted_at' => null,
             ],
             237 => [
                 'id' => 238,
@@ -2866,7 +2629,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:36:00',
-                'deleted_at' => null,
             ],
             238 => [
                 'id' => 239,
@@ -2878,7 +2640,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:36:09',
-                'deleted_at' => null,
             ],
             239 => [
                 'id' => 240,
@@ -2890,7 +2651,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:36:19',
-                'deleted_at' => null,
             ],
             240 => [
                 'id' => 241,
@@ -2902,7 +2662,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:36:40',
-                'deleted_at' => null,
             ],
             241 => [
                 'id' => 242,
@@ -2914,7 +2673,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:37:17',
-                'deleted_at' => null,
             ],
             242 => [
                 'id' => 243,
@@ -2926,7 +2684,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:37:47',
-                'deleted_at' => null,
             ],
             243 => [
                 'id' => 244,
@@ -2938,7 +2695,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:37:55',
-                'deleted_at' => null,
             ],
             244 => [
                 'id' => 245,
@@ -2950,7 +2706,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:38:08',
-                'deleted_at' => null,
             ],
             245 => [
                 'id' => 246,
@@ -2962,7 +2717,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:38:32',
-                'deleted_at' => null,
             ],
             246 => [
                 'id' => 247,
@@ -2974,7 +2728,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:39:00',
-                'deleted_at' => null,
             ],
             247 => [
                 'id' => 248,
@@ -2986,7 +2739,6 @@ class CitySeeder extends Seeder
                 'district_id' => 21,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:39:12',
-                'deleted_at' => null,
             ],
             248 => [
                 'id' => 249,
@@ -2998,7 +2750,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:42:00',
-                'deleted_at' => null,
             ],
             249 => [
                 'id' => 250,
@@ -3010,7 +2761,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:42:10',
-                'deleted_at' => null,
             ],
             250 => [
                 'id' => 251,
@@ -3022,7 +2772,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:42:21',
-                'deleted_at' => null,
             ],
             251 => [
                 'id' => 252,
@@ -3034,7 +2783,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:42:58',
-                'deleted_at' => null,
             ],
             252 => [
                 'id' => 253,
@@ -3046,7 +2794,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:44:15',
-                'deleted_at' => null,
             ],
             253 => [
                 'id' => 254,
@@ -3058,7 +2805,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:46:05',
-                'deleted_at' => null,
             ],
             254 => [
                 'id' => 255,
@@ -3070,7 +2816,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:46:15',
-                'deleted_at' => null,
             ],
             255 => [
                 'id' => 256,
@@ -3082,7 +2827,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:48:54',
-                'deleted_at' => null,
             ],
             256 => [
                 'id' => 257,
@@ -3094,7 +2838,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:49:08',
-                'deleted_at' => null,
             ],
             257 => [
                 'id' => 258,
@@ -3106,7 +2849,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:51:03',
-                'deleted_at' => null,
             ],
             258 => [
                 'id' => 259,
@@ -3118,7 +2860,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:51:15',
-                'deleted_at' => null,
             ],
             259 => [
                 'id' => 260,
@@ -3130,7 +2871,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:51:27',
-                'deleted_at' => null,
             ],
             260 => [
                 'id' => 261,
@@ -3142,7 +2882,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:51:48',
-                'deleted_at' => null,
             ],
             261 => [
                 'id' => 262,
@@ -3154,7 +2893,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:52:00',
-                'deleted_at' => null,
             ],
             262 => [
                 'id' => 263,
@@ -3166,7 +2904,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:52:11',
-                'deleted_at' => null,
             ],
             263 => [
                 'id' => 264,
@@ -3178,7 +2915,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:52:32',
-                'deleted_at' => null,
             ],
             264 => [
                 'id' => 265,
@@ -3190,7 +2926,6 @@ class CitySeeder extends Seeder
                 'district_id' => 22,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:52:47',
-                'deleted_at' => null,
             ],
             265 => [
                 'id' => 266,
@@ -3202,7 +2937,6 @@ class CitySeeder extends Seeder
                 'district_id' => 23,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:53:21',
-                'deleted_at' => null,
             ],
             266 => [
                 'id' => 267,
@@ -3214,7 +2948,6 @@ class CitySeeder extends Seeder
                 'district_id' => 23,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:53:29',
-                'deleted_at' => null,
             ],
             267 => [
                 'id' => 268,
@@ -3226,7 +2959,6 @@ class CitySeeder extends Seeder
                 'district_id' => 23,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:53:37',
-                'deleted_at' => null,
             ],
             268 => [
                 'id' => 269,
@@ -3238,7 +2970,6 @@ class CitySeeder extends Seeder
                 'district_id' => 23,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:53:49',
-                'deleted_at' => null,
             ],
             269 => [
                 'id' => 270,
@@ -3250,7 +2981,6 @@ class CitySeeder extends Seeder
                 'district_id' => 24,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:54:18',
-                'deleted_at' => null,
             ],
             270 => [
                 'id' => 271,
@@ -3262,7 +2992,6 @@ class CitySeeder extends Seeder
                 'district_id' => 24,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:51:34',
-                'deleted_at' => null,
             ],
             271 => [
                 'id' => 272,
@@ -3274,7 +3003,6 @@ class CitySeeder extends Seeder
                 'district_id' => 24,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:51:55',
-                'deleted_at' => null,
             ],
             272 => [
                 'id' => 273,
@@ -3286,7 +3014,6 @@ class CitySeeder extends Seeder
                 'district_id' => 24,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:52:12',
-                'deleted_at' => null,
             ],
             273 => [
                 'id' => 274,
@@ -3298,7 +3025,6 @@ class CitySeeder extends Seeder
                 'district_id' => 24,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:53:53',
-                'deleted_at' => null,
             ],
             274 => [
                 'id' => 275,
@@ -3310,7 +3036,6 @@ class CitySeeder extends Seeder
                 'district_id' => 24,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:54:06',
-                'deleted_at' => null,
             ],
             275 => [
                 'id' => 276,
@@ -3322,7 +3047,6 @@ class CitySeeder extends Seeder
                 'district_id' => 24,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:54:21',
-                'deleted_at' => null,
             ],
             276 => [
                 'id' => 277,
@@ -3334,7 +3058,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:55:28',
-                'deleted_at' => null,
             ],
             277 => [
                 'id' => 278,
@@ -3346,7 +3069,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:55:59',
-                'deleted_at' => null,
             ],
             278 => [
                 'id' => 279,
@@ -3358,7 +3080,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:56:14',
-                'deleted_at' => null,
             ],
             279 => [
                 'id' => 280,
@@ -3370,7 +3091,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:56:28',
-                'deleted_at' => null,
             ],
             280 => [
                 'id' => 281,
@@ -3382,7 +3102,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:56:59',
-                'deleted_at' => null,
             ],
             281 => [
                 'id' => 282,
@@ -3394,7 +3113,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:13',
-                'deleted_at' => null,
             ],
             282 => [
                 'id' => 283,
@@ -3406,7 +3124,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:29',
-                'deleted_at' => null,
             ],
             283 => [
                 'id' => 284,
@@ -3418,7 +3135,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:45',
-                'deleted_at' => null,
             ],
             284 => [
                 'id' => 285,
@@ -3430,7 +3146,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:07',
-                'deleted_at' => null,
             ],
             285 => [
                 'id' => 286,
@@ -3442,7 +3157,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:55:19',
-                'deleted_at' => null,
             ],
             286 => [
                 'id' => 287,
@@ -3454,7 +3168,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:55:27',
-                'deleted_at' => null,
             ],
             287 => [
                 'id' => 288,
@@ -3466,7 +3179,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:55:34',
-                'deleted_at' => null,
             ],
             288 => [
                 'id' => 289,
@@ -3478,7 +3190,6 @@ class CitySeeder extends Seeder
                 'district_id' => 25,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:55:56',
-                'deleted_at' => null,
             ],
             289 => [
                 'id' => 290,
@@ -3490,7 +3201,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:56:28',
-                'deleted_at' => null,
             ],
             290 => [
                 'id' => 291,
@@ -3502,7 +3212,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:56:37',
-                'deleted_at' => null,
             ],
             291 => [
                 'id' => 292,
@@ -3514,7 +3223,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:56:46',
-                'deleted_at' => null,
             ],
             292 => [
                 'id' => 293,
@@ -3526,7 +3234,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:56:53',
-                'deleted_at' => null,
             ],
             293 => [
                 'id' => 294,
@@ -3538,7 +3245,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:00',
-                'deleted_at' => null,
             ],
             294 => [
                 'id' => 295,
@@ -3550,7 +3256,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:08',
-                'deleted_at' => null,
             ],
             295 => [
                 'id' => 296,
@@ -3562,7 +3267,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:13',
-                'deleted_at' => null,
             ],
             296 => [
                 'id' => 297,
@@ -3574,7 +3278,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:22',
-                'deleted_at' => null,
             ],
             297 => [
                 'id' => 298,
@@ -3586,7 +3289,6 @@ class CitySeeder extends Seeder
                 'district_id' => 26,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:30',
-                'deleted_at' => null,
             ],
             298 => [
                 'id' => 299,
@@ -3598,7 +3300,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:57:50',
-                'deleted_at' => null,
             ],
             299 => [
                 'id' => 300,
@@ -3610,7 +3311,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:06',
-                'deleted_at' => null,
             ],
             300 => [
                 'id' => 301,
@@ -3622,7 +3322,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:15',
-                'deleted_at' => null,
             ],
             301 => [
                 'id' => 302,
@@ -3634,7 +3333,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:26',
-                'deleted_at' => null,
             ],
             302 => [
                 'id' => 303,
@@ -3646,7 +3344,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:37',
-                'deleted_at' => null,
             ],
             303 => [
                 'id' => 304,
@@ -3658,7 +3355,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:43',
-                'deleted_at' => null,
             ],
             304 => [
                 'id' => 305,
@@ -3670,7 +3366,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:48',
-                'deleted_at' => null,
             ],
             305 => [
                 'id' => 306,
@@ -3682,7 +3377,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:58:55',
-                'deleted_at' => null,
             ],
             306 => [
                 'id' => 307,
@@ -3694,7 +3388,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:01',
-                'deleted_at' => null,
             ],
             307 => [
                 'id' => 308,
@@ -3706,7 +3399,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:08',
-                'deleted_at' => null,
             ],
             308 => [
                 'id' => 309,
@@ -3718,7 +3410,6 @@ class CitySeeder extends Seeder
                 'district_id' => 27,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:18',
-                'deleted_at' => null,
             ],
             309 => [
                 'id' => 310,
@@ -3730,7 +3421,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:34',
-                'deleted_at' => null,
             ],
             310 => [
                 'id' => 311,
@@ -3742,7 +3432,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:43',
-                'deleted_at' => null,
             ],
             311 => [
                 'id' => 312,
@@ -3754,7 +3443,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:00:00',
-                'deleted_at' => null,
             ],
             312 => [
                 'id' => 313,
@@ -3766,7 +3454,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:00:11',
-                'deleted_at' => null,
             ],
             313 => [
                 'id' => 314,
@@ -3778,7 +3465,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:00:33',
-                'deleted_at' => null,
             ],
             314 => [
                 'id' => 315,
@@ -3790,7 +3476,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:00:45',
-                'deleted_at' => null,
             ],
             315 => [
                 'id' => 316,
@@ -3802,7 +3487,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:02',
-                'deleted_at' => null,
             ],
             316 => [
                 'id' => 317,
@@ -3814,7 +3498,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:29',
-                'deleted_at' => null,
             ],
             317 => [
                 'id' => 318,
@@ -3826,7 +3509,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 07:59:43',
-                'deleted_at' => null,
             ],
             318 => [
                 'id' => 319,
@@ -3838,7 +3520,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:00:17',
-                'deleted_at' => null,
             ],
             319 => [
                 'id' => 320,
@@ -3850,7 +3531,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:00:35',
-                'deleted_at' => null,
             ],
             320 => [
                 'id' => 321,
@@ -3862,7 +3542,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:01:05',
-                'deleted_at' => null,
             ],
             321 => [
                 'id' => 322,
@@ -3874,7 +3553,6 @@ class CitySeeder extends Seeder
                 'district_id' => 28,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:01:58',
-                'deleted_at' => null,
             ],
             322 => [
                 'id' => 323,
@@ -3886,7 +3564,6 @@ class CitySeeder extends Seeder
                 'district_id' => 29,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:02:26',
-                'deleted_at' => null,
             ],
             323 => [
                 'id' => 324,
@@ -3898,7 +3575,6 @@ class CitySeeder extends Seeder
                 'district_id' => 29,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:02:39',
-                'deleted_at' => null,
             ],
             324 => [
                 'id' => 325,
@@ -3910,7 +3586,6 @@ class CitySeeder extends Seeder
                 'district_id' => 29,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 08:03:03',
-                'deleted_at' => null,
             ],
             325 => [
                 'id' => 326,
@@ -3922,7 +3597,6 @@ class CitySeeder extends Seeder
                 'district_id' => 29,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:03:17',
-                'deleted_at' => null,
             ],
             326 => [
                 'id' => 327,
@@ -3934,7 +3608,6 @@ class CitySeeder extends Seeder
                 'district_id' => 29,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:03:33',
-                'deleted_at' => null,
             ],
             327 => [
                 'id' => 328,
@@ -3946,7 +3619,6 @@ class CitySeeder extends Seeder
                 'district_id' => 29,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:03:46',
-                'deleted_at' => null,
             ],
             328 => [
                 'id' => 329,
@@ -3958,7 +3630,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:04:18',
-                'deleted_at' => null,
             ],
             329 => [
                 'id' => 330,
@@ -3970,7 +3641,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:04:41',
-                'deleted_at' => null,
             ],
             330 => [
                 'id' => 331,
@@ -3982,7 +3652,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:02:36',
-                'deleted_at' => null,
             ],
             331 => [
                 'id' => 332,
@@ -3994,7 +3663,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:03:30',
-                'deleted_at' => null,
             ],
             332 => [
                 'id' => 333,
@@ -4006,7 +3674,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:03:36',
-                'deleted_at' => null,
             ],
             333 => [
                 'id' => 334,
@@ -4018,7 +3685,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:03:43',
-                'deleted_at' => null,
             ],
             334 => [
                 'id' => 335,
@@ -4030,7 +3696,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:03:49',
-                'deleted_at' => null,
             ],
             335 => [
                 'id' => 336,
@@ -4042,7 +3707,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:04:00',
-                'deleted_at' => null,
             ],
             336 => [
                 'id' => 337,
@@ -4054,7 +3718,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:04:16',
-                'deleted_at' => null,
             ],
             337 => [
                 'id' => 338,
@@ -4066,7 +3729,6 @@ class CitySeeder extends Seeder
                 'district_id' => 30,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:04:23',
-                'deleted_at' => null,
             ],
             338 => [
                 'id' => 339,
@@ -4078,7 +3740,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:04:59',
-                'deleted_at' => null,
             ],
             339 => [
                 'id' => 340,
@@ -4090,7 +3751,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:05:09',
-                'deleted_at' => null,
             ],
             340 => [
                 'id' => 341,
@@ -4102,7 +3762,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:05:19',
-                'deleted_at' => null,
             ],
             341 => [
                 'id' => 342,
@@ -4114,7 +3773,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:05:27',
-                'deleted_at' => null,
             ],
             342 => [
                 'id' => 343,
@@ -4126,7 +3784,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:05:36',
-                'deleted_at' => null,
             ],
             343 => [
                 'id' => 344,
@@ -4138,7 +3795,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:06:16',
-                'deleted_at' => null,
             ],
             344 => [
                 'id' => 345,
@@ -4150,7 +3806,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:06:08',
-                'deleted_at' => null,
             ],
             345 => [
                 'id' => 346,
@@ -4162,7 +3817,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:05:13',
-                'deleted_at' => null,
             ],
             346 => [
                 'id' => 347,
@@ -4174,7 +3828,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:05:42',
-                'deleted_at' => null,
             ],
             347 => [
                 'id' => 348,
@@ -4186,7 +3839,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:06:04',
-                'deleted_at' => null,
             ],
             348 => [
                 'id' => 349,
@@ -4198,7 +3850,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:06:19',
-                'deleted_at' => null,
             ],
             349 => [
                 'id' => 350,
@@ -4210,7 +3861,6 @@ class CitySeeder extends Seeder
                 'district_id' => 31,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:06:39',
-                'deleted_at' => null,
             ],
             350 => [
                 'id' => 351,
@@ -4222,7 +3872,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:07:25',
-                'deleted_at' => null,
             ],
             351 => [
                 'id' => 352,
@@ -4234,7 +3883,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:08:12',
-                'deleted_at' => null,
             ],
             352 => [
                 'id' => 353,
@@ -4246,7 +3894,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:08:31',
-                'deleted_at' => null,
             ],
             353 => [
                 'id' => 354,
@@ -4258,7 +3905,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:08:56',
-                'deleted_at' => null,
             ],
             354 => [
                 'id' => 355,
@@ -4270,7 +3916,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:09:18',
-                'deleted_at' => null,
             ],
             355 => [
                 'id' => 356,
@@ -4282,7 +3927,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:09:32',
-                'deleted_at' => null,
             ],
             356 => [
                 'id' => 357,
@@ -4294,7 +3938,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:09:55',
-                'deleted_at' => null,
             ],
             357 => [
                 'id' => 358,
@@ -4306,7 +3949,6 @@ class CitySeeder extends Seeder
                 'district_id' => 32,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:10:30',
-                'deleted_at' => null,
             ],
             358 => [
                 'id' => 359,
@@ -4318,7 +3960,6 @@ class CitySeeder extends Seeder
                 'district_id' => 33,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:07:33',
-                'deleted_at' => null,
             ],
             359 => [
                 'id' => 360,
@@ -4330,7 +3971,6 @@ class CitySeeder extends Seeder
                 'district_id' => 33,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:07:40',
-                'deleted_at' => null,
             ],
             360 => [
                 'id' => 361,
@@ -4342,7 +3982,6 @@ class CitySeeder extends Seeder
                 'district_id' => 33,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:06:58',
-                'deleted_at' => null,
             ],
             361 => [
                 'id' => 362,
@@ -4354,7 +3993,6 @@ class CitySeeder extends Seeder
                 'district_id' => 33,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:07:07',
-                'deleted_at' => null,
             ],
             362 => [
                 'id' => 363,
@@ -4366,7 +4004,6 @@ class CitySeeder extends Seeder
                 'district_id' => 33,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:07:14',
-                'deleted_at' => null,
             ],
             363 => [
                 'id' => 364,
@@ -4378,7 +4015,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:11:24',
-                'deleted_at' => null,
             ],
             364 => [
                 'id' => 365,
@@ -4390,7 +4026,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:11:50',
-                'deleted_at' => null,
             ],
             365 => [
                 'id' => 366,
@@ -4402,7 +4037,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:11:59',
-                'deleted_at' => null,
             ],
             366 => [
                 'id' => 367,
@@ -4414,7 +4048,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:13:18',
-                'deleted_at' => null,
             ],
             367 => [
                 'id' => 368,
@@ -4426,7 +4059,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:13:26',
-                'deleted_at' => null,
             ],
             368 => [
                 'id' => 369,
@@ -4438,7 +4070,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:14:20',
-                'deleted_at' => null,
             ],
             369 => [
                 'id' => 370,
@@ -4450,7 +4081,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:14:29',
-                'deleted_at' => null,
             ],
             370 => [
                 'id' => 371,
@@ -4462,7 +4092,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:14:40',
-                'deleted_at' => null,
             ],
             371 => [
                 'id' => 372,
@@ -4474,7 +4103,6 @@ class CitySeeder extends Seeder
                 'district_id' => 34,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:14:56',
-                'deleted_at' => null,
             ],
             372 => [
                 'id' => 373,
@@ -4486,7 +4114,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:15:17',
-                'deleted_at' => null,
             ],
             373 => [
                 'id' => 374,
@@ -4498,7 +4125,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:15:27',
-                'deleted_at' => null,
             ],
             374 => [
                 'id' => 375,
@@ -4510,7 +4136,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:15:46',
-                'deleted_at' => null,
             ],
             375 => [
                 'id' => 376,
@@ -4522,7 +4147,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:11:58',
-                'deleted_at' => null,
             ],
             376 => [
                 'id' => 377,
@@ -4534,7 +4158,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:12:26',
-                'deleted_at' => null,
             ],
             377 => [
                 'id' => 378,
@@ -4546,7 +4169,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:12:48',
-                'deleted_at' => null,
             ],
             378 => [
                 'id' => 379,
@@ -4558,7 +4180,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:13:04',
-                'deleted_at' => null,
             ],
             379 => [
                 'id' => 380,
@@ -4570,7 +4191,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:13:23',
-                'deleted_at' => null,
             ],
             380 => [
                 'id' => 381,
@@ -4582,7 +4202,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:13:45',
-                'deleted_at' => null,
             ],
             381 => [
                 'id' => 382,
@@ -4594,7 +4213,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:14:04',
-                'deleted_at' => null,
             ],
             382 => [
                 'id' => 383,
@@ -4606,7 +4224,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:14:23',
-                'deleted_at' => null,
             ],
             383 => [
                 'id' => 384,
@@ -4618,7 +4235,6 @@ class CitySeeder extends Seeder
                 'district_id' => 35,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:14:38',
-                'deleted_at' => null,
             ],
             384 => [
                 'id' => 385,
@@ -4630,7 +4246,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:58:24',
-                'deleted_at' => null,
             ],
             385 => [
                 'id' => 386,
@@ -4642,7 +4257,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:59:01',
-                'deleted_at' => null,
             ],
             386 => [
                 'id' => 387,
@@ -4654,7 +4268,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:59:19',
-                'deleted_at' => null,
             ],
             387 => [
                 'id' => 388,
@@ -4666,7 +4279,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:59:43',
-                'deleted_at' => null,
             ],
             388 => [
                 'id' => 389,
@@ -4678,7 +4290,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:00:08',
-                'deleted_at' => null,
             ],
             389 => [
                 'id' => 390,
@@ -4690,7 +4301,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:00:33',
-                'deleted_at' => null,
             ],
             390 => [
                 'id' => 391,
@@ -4702,7 +4312,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:01:19',
-                'deleted_at' => null,
             ],
             391 => [
                 'id' => 392,
@@ -4714,7 +4323,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:01:38',
-                'deleted_at' => null,
             ],
             392 => [
                 'id' => 393,
@@ -4726,7 +4334,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:02:34',
-                'deleted_at' => null,
             ],
             393 => [
                 'id' => 394,
@@ -4738,7 +4345,6 @@ class CitySeeder extends Seeder
                 'district_id' => 36,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:02:48',
-                'deleted_at' => null,
             ],
             394 => [
                 'id' => 395,
@@ -4750,7 +4356,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:17:58',
-                'deleted_at' => null,
             ],
             395 => [
                 'id' => 396,
@@ -4762,7 +4367,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:18:27',
-                'deleted_at' => null,
             ],
             396 => [
                 'id' => 397,
@@ -4774,7 +4378,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:18:52',
-                'deleted_at' => null,
             ],
             397 => [
                 'id' => 398,
@@ -4786,7 +4389,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:19:41',
-                'deleted_at' => null,
             ],
             398 => [
                 'id' => 399,
@@ -4798,7 +4400,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:19:57',
-                'deleted_at' => null,
             ],
             399 => [
                 'id' => 400,
@@ -4810,7 +4411,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:21:10',
-                'deleted_at' => null,
             ],
             400 => [
                 'id' => 401,
@@ -4822,7 +4422,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:21:28',
-                'deleted_at' => null,
             ],
             401 => [
                 'id' => 402,
@@ -4834,7 +4433,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:21:48',
-                'deleted_at' => null,
             ],
             402 => [
                 'id' => 403,
@@ -4846,7 +4444,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:22:01',
-                'deleted_at' => null,
             ],
             403 => [
                 'id' => 404,
@@ -4858,7 +4455,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:22:19',
-                'deleted_at' => null,
             ],
             404 => [
                 'id' => 405,
@@ -4870,7 +4466,6 @@ class CitySeeder extends Seeder
                 'district_id' => 37,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 09:22:37',
-                'deleted_at' => null,
             ],
             405 => [
                 'id' => 406,
@@ -4882,7 +4477,6 @@ class CitySeeder extends Seeder
                 'district_id' => 38,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:18:18',
-                'deleted_at' => null,
             ],
             406 => [
                 'id' => 407,
@@ -4894,7 +4488,6 @@ class CitySeeder extends Seeder
                 'district_id' => 38,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:18:27',
-                'deleted_at' => null,
             ],
             407 => [
                 'id' => 408,
@@ -4906,7 +4499,6 @@ class CitySeeder extends Seeder
                 'district_id' => 38,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:18:46',
-                'deleted_at' => null,
             ],
             408 => [
                 'id' => 409,
@@ -4918,7 +4510,6 @@ class CitySeeder extends Seeder
                 'district_id' => 38,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:18:54',
-                'deleted_at' => null,
             ],
             409 => [
                 'id' => 410,
@@ -4930,7 +4521,6 @@ class CitySeeder extends Seeder
                 'district_id' => 38,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:19:51',
-                'deleted_at' => null,
             ],
             410 => [
                 'id' => 411,
@@ -4942,7 +4532,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:20:24',
-                'deleted_at' => null,
             ],
             411 => [
                 'id' => 412,
@@ -4954,7 +4543,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:20:34',
-                'deleted_at' => null,
             ],
             412 => [
                 'id' => 413,
@@ -4966,7 +4554,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:20:45',
-                'deleted_at' => null,
             ],
             413 => [
                 'id' => 414,
@@ -4978,7 +4565,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:20:52',
-                'deleted_at' => null,
             ],
             414 => [
                 'id' => 415,
@@ -4990,7 +4576,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:21:00',
-                'deleted_at' => null,
             ],
             415 => [
                 'id' => 416,
@@ -5002,7 +4587,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:21:08',
-                'deleted_at' => null,
             ],
             416 => [
                 'id' => 417,
@@ -5014,7 +4598,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:21:15',
-                'deleted_at' => null,
             ],
             417 => [
                 'id' => 418,
@@ -5026,7 +4609,6 @@ class CitySeeder extends Seeder
                 'district_id' => 39,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:21:27',
-                'deleted_at' => null,
             ],
             418 => [
                 'id' => 419,
@@ -5038,7 +4620,6 @@ class CitySeeder extends Seeder
                 'district_id' => 40,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:21:48',
-                'deleted_at' => null,
             ],
             419 => [
                 'id' => 420,
@@ -5050,7 +4631,6 @@ class CitySeeder extends Seeder
                 'district_id' => 40,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:21:55',
-                'deleted_at' => null,
             ],
             420 => [
                 'id' => 421,
@@ -5062,7 +4642,6 @@ class CitySeeder extends Seeder
                 'district_id' => 40,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:22:04',
-                'deleted_at' => null,
             ],
             421 => [
                 'id' => 422,
@@ -5074,7 +4653,6 @@ class CitySeeder extends Seeder
                 'district_id' => 40,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:22:09',
-                'deleted_at' => null,
             ],
             422 => [
                 'id' => 423,
@@ -5086,7 +4664,6 @@ class CitySeeder extends Seeder
                 'district_id' => 41,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:23:13',
-                'deleted_at' => null,
             ],
             423 => [
                 'id' => 424,
@@ -5098,7 +4675,6 @@ class CitySeeder extends Seeder
                 'district_id' => 41,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:23:39',
-                'deleted_at' => null,
             ],
             424 => [
                 'id' => 425,
@@ -5110,7 +4686,6 @@ class CitySeeder extends Seeder
                 'district_id' => 41,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 08:23:45',
-                'deleted_at' => null,
             ],
             425 => [
                 'id' => 426,
@@ -5122,7 +4697,6 @@ class CitySeeder extends Seeder
                 'district_id' => 41,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 08:23:53',
-                'deleted_at' => null,
             ],
             426 => [
                 'id' => 427,
@@ -5134,7 +4708,6 @@ class CitySeeder extends Seeder
                 'district_id' => 41,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 08:24:03',
-                'deleted_at' => null,
             ],
             427 => [
                 'id' => 428,
@@ -5146,7 +4719,6 @@ class CitySeeder extends Seeder
                 'district_id' => 42,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:17:29',
-                'deleted_at' => null,
             ],
             428 => [
                 'id' => 429,
@@ -5158,7 +4730,6 @@ class CitySeeder extends Seeder
                 'district_id' => 42,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:17:40',
-                'deleted_at' => null,
             ],
             429 => [
                 'id' => 430,
@@ -5170,7 +4741,6 @@ class CitySeeder extends Seeder
                 'district_id' => 42,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:18:03',
-                'deleted_at' => null,
             ],
             430 => [
                 'id' => 431,
@@ -5182,7 +4752,6 @@ class CitySeeder extends Seeder
                 'district_id' => 42,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:18:11',
-                'deleted_at' => null,
             ],
             431 => [
                 'id' => 432,
@@ -5194,7 +4763,6 @@ class CitySeeder extends Seeder
                 'district_id' => 42,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:18:19',
-                'deleted_at' => null,
             ],
             432 => [
                 'id' => 433,
@@ -5206,7 +4774,6 @@ class CitySeeder extends Seeder
                 'district_id' => 42,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:18:25',
-                'deleted_at' => null,
             ],
             433 => [
                 'id' => 436,
@@ -5218,7 +4785,6 @@ class CitySeeder extends Seeder
                 'district_id' => 43,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:19:47',
-                'deleted_at' => null,
             ],
             434 => [
                 'id' => 439,
@@ -5230,7 +4796,6 @@ class CitySeeder extends Seeder
                 'district_id' => 43,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:21:12',
-                'deleted_at' => null,
             ],
             435 => [
                 'id' => 440,
@@ -5242,7 +4807,6 @@ class CitySeeder extends Seeder
                 'district_id' => 43,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:21:19',
-                'deleted_at' => null,
             ],
             436 => [
                 'id' => 441,
@@ -5254,7 +4818,6 @@ class CitySeeder extends Seeder
                 'district_id' => 43,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 16:51:56',
-                'deleted_at' => null,
             ],
             437 => [
                 'id' => 442,
@@ -5266,7 +4829,6 @@ class CitySeeder extends Seeder
                 'district_id' => 43,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:22:03',
-                'deleted_at' => null,
             ],
             438 => [
                 'id' => 443,
@@ -5278,7 +4840,6 @@ class CitySeeder extends Seeder
                 'district_id' => 43,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:22:11',
-                'deleted_at' => null,
             ],
             439 => [
                 'id' => 447,
@@ -5290,7 +4851,6 @@ class CitySeeder extends Seeder
                 'district_id' => 43,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:23:51',
-                'deleted_at' => null,
             ],
             440 => [
                 'id' => 449,
@@ -5302,7 +4862,6 @@ class CitySeeder extends Seeder
                 'district_id' => 44,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:24:30',
-                'deleted_at' => null,
             ],
             441 => [
                 'id' => 450,
@@ -5314,7 +4873,6 @@ class CitySeeder extends Seeder
                 'district_id' => 44,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:24:40',
-                'deleted_at' => null,
             ],
             442 => [
                 'id' => 451,
@@ -5326,7 +4884,6 @@ class CitySeeder extends Seeder
                 'district_id' => 44,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:23:17',
-                'deleted_at' => null,
             ],
             443 => [
                 'id' => 452,
@@ -5338,7 +4895,6 @@ class CitySeeder extends Seeder
                 'district_id' => 44,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:23:30',
-                'deleted_at' => null,
             ],
             444 => [
                 'id' => 453,
@@ -5350,7 +4906,6 @@ class CitySeeder extends Seeder
                 'district_id' => 44,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:23:44',
-                'deleted_at' => null,
             ],
             445 => [
                 'id' => 454,
@@ -5362,7 +4917,6 @@ class CitySeeder extends Seeder
                 'district_id' => 44,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:23:59',
-                'deleted_at' => null,
             ],
             446 => [
                 'id' => 455,
@@ -5374,7 +4928,6 @@ class CitySeeder extends Seeder
                 'district_id' => 44,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:24:15',
-                'deleted_at' => null,
             ],
             447 => [
                 'id' => 456,
@@ -5386,7 +4939,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:25:04',
-                'deleted_at' => null,
             ],
             448 => [
                 'id' => 457,
@@ -5398,7 +4950,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:25:18',
-                'deleted_at' => null,
             ],
             449 => [
                 'id' => 458,
@@ -5410,7 +4961,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:25:31',
-                'deleted_at' => null,
             ],
             450 => [
                 'id' => 459,
@@ -5422,7 +4972,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:25:45',
-                'deleted_at' => null,
             ],
             451 => [
                 'id' => 460,
@@ -5434,7 +4983,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:04',
-                'deleted_at' => null,
             ],
             452 => [
                 'id' => 461,
@@ -5446,7 +4994,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:55',
-                'deleted_at' => null,
             ],
             453 => [
                 'id' => 462,
@@ -5458,7 +5005,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:27:40',
-                'deleted_at' => null,
             ],
             454 => [
                 'id' => 463,
@@ -5470,7 +5016,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:12',
-                'deleted_at' => null,
             ],
             455 => [
                 'id' => 464,
@@ -5482,7 +5027,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:28',
-                'deleted_at' => null,
             ],
             456 => [
                 'id' => 465,
@@ -5494,7 +5038,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:40',
-                'deleted_at' => null,
             ],
             457 => [
                 'id' => 466,
@@ -5506,7 +5049,6 @@ class CitySeeder extends Seeder
                 'district_id' => 45,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:25:20',
-                'deleted_at' => null,
             ],
             458 => [
                 'id' => 467,
@@ -5518,7 +5060,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:25:47',
-                'deleted_at' => null,
             ],
             459 => [
                 'id' => 468,
@@ -5530,7 +5071,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:00',
-                'deleted_at' => null,
             ],
             460 => [
                 'id' => 469,
@@ -5542,7 +5082,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:07',
-                'deleted_at' => null,
             ],
             461 => [
                 'id' => 470,
@@ -5554,7 +5093,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:16',
-                'deleted_at' => null,
             ],
             462 => [
                 'id' => 471,
@@ -5566,7 +5104,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:29',
-                'deleted_at' => null,
             ],
             463 => [
                 'id' => 472,
@@ -5578,7 +5115,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:39',
-                'deleted_at' => null,
             ],
             464 => [
                 'id' => 473,
@@ -5590,7 +5126,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:48',
-                'deleted_at' => null,
             ],
             465 => [
                 'id' => 474,
@@ -5602,7 +5137,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:26:55',
-                'deleted_at' => null,
             ],
             466 => [
                 'id' => 475,
@@ -5614,7 +5148,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:27:05',
-                'deleted_at' => null,
             ],
             467 => [
                 'id' => 476,
@@ -5626,7 +5159,6 @@ class CitySeeder extends Seeder
                 'district_id' => 46,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:27:16',
-                'deleted_at' => null,
             ],
             468 => [
                 'id' => 477,
@@ -5638,7 +5170,6 @@ class CitySeeder extends Seeder
                 'district_id' => 47,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:27:56',
-                'deleted_at' => null,
             ],
             469 => [
                 'id' => 478,
@@ -5650,7 +5181,6 @@ class CitySeeder extends Seeder
                 'district_id' => 47,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:03',
-                'deleted_at' => null,
             ],
             470 => [
                 'id' => 479,
@@ -5662,7 +5192,6 @@ class CitySeeder extends Seeder
                 'district_id' => 47,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:16',
-                'deleted_at' => null,
             ],
             471 => [
                 'id' => 480,
@@ -5674,7 +5203,6 @@ class CitySeeder extends Seeder
                 'district_id' => 47,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:30',
-                'deleted_at' => null,
             ],
             472 => [
                 'id' => 481,
@@ -5686,7 +5214,6 @@ class CitySeeder extends Seeder
                 'district_id' => 47,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:42',
-                'deleted_at' => null,
             ],
             473 => [
                 'id' => 482,
@@ -5698,7 +5225,6 @@ class CitySeeder extends Seeder
                 'district_id' => 47,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:28:48',
-                'deleted_at' => null,
             ],
             474 => [
                 'id' => 483,
@@ -5710,7 +5236,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:29:46',
-                'deleted_at' => null,
             ],
             475 => [
                 'id' => 484,
@@ -5722,7 +5247,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:29:58',
-                'deleted_at' => null,
             ],
             476 => [
                 'id' => 485,
@@ -5734,7 +5258,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:30:10',
-                'deleted_at' => null,
             ],
             477 => [
                 'id' => 486,
@@ -5746,7 +5269,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:30:21',
-                'deleted_at' => null,
             ],
             478 => [
                 'id' => 487,
@@ -5758,7 +5280,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:30:31',
-                'deleted_at' => null,
             ],
             479 => [
                 'id' => 488,
@@ -5770,7 +5291,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:30:40',
-                'deleted_at' => null,
             ],
             480 => [
                 'id' => 489,
@@ -5782,7 +5302,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:30:49',
-                'deleted_at' => null,
             ],
             481 => [
                 'id' => 490,
@@ -5794,7 +5313,6 @@ class CitySeeder extends Seeder
                 'district_id' => 48,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:31:01',
-                'deleted_at' => null,
             ],
             482 => [
                 'id' => 491,
@@ -5806,7 +5324,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:31:27',
-                'deleted_at' => null,
             ],
             483 => [
                 'id' => 492,
@@ -5818,7 +5335,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:31:35',
-                'deleted_at' => null,
             ],
             484 => [
                 'id' => 493,
@@ -5830,7 +5346,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:31:42',
-                'deleted_at' => null,
             ],
             485 => [
                 'id' => 494,
@@ -5842,7 +5357,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:31:51',
-                'deleted_at' => null,
             ],
             486 => [
                 'id' => 495,
@@ -5854,7 +5368,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:32:01',
-                'deleted_at' => null,
             ],
             487 => [
                 'id' => 496,
@@ -5866,7 +5379,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:29:36',
-                'deleted_at' => null,
             ],
             488 => [
                 'id' => 497,
@@ -5878,7 +5390,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:30:06',
-                'deleted_at' => null,
             ],
             489 => [
                 'id' => 498,
@@ -5890,7 +5401,6 @@ class CitySeeder extends Seeder
                 'district_id' => 49,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:30:21',
-                'deleted_at' => null,
             ],
             490 => [
                 'id' => 499,
@@ -5902,7 +5412,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:32:31',
-                'deleted_at' => null,
             ],
             491 => [
                 'id' => 500,
@@ -5914,7 +5423,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:32:44',
-                'deleted_at' => null,
             ],
             492 => [
                 'id' => 501,
@@ -5926,7 +5434,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:32:56',
-                'deleted_at' => null,
             ],
             493 => [
                 'id' => 502,
@@ -5938,7 +5445,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:33:11',
-                'deleted_at' => null,
             ],
             494 => [
                 'id' => 503,
@@ -5950,7 +5456,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:33:24',
-                'deleted_at' => null,
             ],
             495 => [
                 'id' => 504,
@@ -5962,7 +5467,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:33:41',
-                'deleted_at' => null,
             ],
             496 => [
                 'id' => 505,
@@ -5974,7 +5478,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:34:02',
-                'deleted_at' => null,
             ],
             497 => [
                 'id' => 506,
@@ -5986,7 +5489,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:34:16',
-                'deleted_at' => null,
             ],
             498 => [
                 'id' => 507,
@@ -5998,7 +5500,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:34:28',
-                'deleted_at' => null,
             ],
             499 => [
                 'id' => 508,
@@ -6010,7 +5511,6 @@ class CitySeeder extends Seeder
                 'district_id' => 50,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 09:35:14',
-                'deleted_at' => null,
             ],
         ]);
         DB::table('cities')->insert([
@@ -6024,7 +5524,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:37:15',
-                'deleted_at' => null,
             ],
             1 => [
                 'id' => 510,
@@ -6036,7 +5535,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:37:29',
-                'deleted_at' => null,
             ],
             2 => [
                 'id' => 511,
@@ -6048,7 +5546,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:37:43',
-                'deleted_at' => null,
             ],
             3 => [
                 'id' => 512,
@@ -6060,7 +5557,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:38:01',
-                'deleted_at' => null,
             ],
             4 => [
                 'id' => 513,
@@ -6072,7 +5568,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:38:30',
-                'deleted_at' => null,
             ],
             5 => [
                 'id' => 514,
@@ -6084,7 +5579,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:38:46',
-                'deleted_at' => null,
             ],
             6 => [
                 'id' => 515,
@@ -6096,7 +5590,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:39:02',
-                'deleted_at' => null,
             ],
             7 => [
                 'id' => 516,
@@ -6108,7 +5601,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:39:17',
-                'deleted_at' => null,
             ],
             8 => [
                 'id' => 517,
@@ -6120,7 +5612,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:39:40',
-                'deleted_at' => null,
             ],
             9 => [
                 'id' => 518,
@@ -6132,7 +5623,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-11 05:39:56',
-                'deleted_at' => null,
             ],
             10 => [
                 'id' => 519,
@@ -6144,7 +5634,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-11 05:40:16',
-                'deleted_at' => null,
             ],
             11 => [
                 'id' => 520,
@@ -6156,7 +5645,6 @@ class CitySeeder extends Seeder
                 'district_id' => 51,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-11 05:40:35',
-                'deleted_at' => null,
             ],
             12 => [
                 'id' => 521,
@@ -6168,7 +5656,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-11 05:35:10',
-                'deleted_at' => null,
             ],
             13 => [
                 'id' => 522,
@@ -6180,7 +5667,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-11 05:35:24',
-                'deleted_at' => null,
             ],
             14 => [
                 'id' => 523,
@@ -6192,7 +5678,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-11 05:35:40',
-                'deleted_at' => null,
             ],
             15 => [
                 'id' => 524,
@@ -6204,7 +5689,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-11 05:35:59',
-                'deleted_at' => null,
             ],
             16 => [
                 'id' => 525,
@@ -6216,7 +5700,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-11 05:36:15',
-                'deleted_at' => null,
             ],
             17 => [
                 'id' => 526,
@@ -6228,7 +5711,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:32:49',
-                'deleted_at' => null,
             ],
             18 => [
                 'id' => 527,
@@ -6240,7 +5722,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:32:57',
-                'deleted_at' => null,
             ],
             19 => [
                 'id' => 528,
@@ -6252,7 +5733,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:33:03',
-                'deleted_at' => null,
             ],
             20 => [
                 'id' => 529,
@@ -6264,7 +5744,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:33:16',
-                'deleted_at' => null,
             ],
             21 => [
                 'id' => 530,
@@ -6276,7 +5755,6 @@ class CitySeeder extends Seeder
                 'district_id' => 52,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:33:25',
-                'deleted_at' => null,
             ],
             22 => [
                 'id' => 531,
@@ -6288,7 +5766,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:33:47',
-                'deleted_at' => null,
             ],
             23 => [
                 'id' => 532,
@@ -6300,7 +5777,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:33:55',
-                'deleted_at' => null,
             ],
             24 => [
                 'id' => 533,
@@ -6312,7 +5788,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:34:06',
-                'deleted_at' => null,
             ],
             25 => [
                 'id' => 535,
@@ -6324,7 +5799,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:43:30',
-                'deleted_at' => null,
             ],
             26 => [
                 'id' => 541,
@@ -6336,7 +5810,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:51:35',
-                'deleted_at' => null,
             ],
             27 => [
                 'id' => 542,
@@ -6348,7 +5821,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:51:50',
-                'deleted_at' => null,
             ],
             28 => [
                 'id' => 543,
@@ -6360,7 +5832,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:52:08',
-                'deleted_at' => null,
             ],
             29 => [
                 'id' => 545,
@@ -6372,7 +5843,6 @@ class CitySeeder extends Seeder
                 'district_id' => 53,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 09:52:42',
-                'deleted_at' => null,
             ],
             30 => [
                 'id' => 546,
@@ -6384,7 +5854,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:18:31',
-                'deleted_at' => null,
             ],
             31 => [
                 'id' => 547,
@@ -6396,7 +5865,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:18:40',
-                'deleted_at' => null,
             ],
             32 => [
                 'id' => 548,
@@ -6408,7 +5876,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:18:48',
-                'deleted_at' => null,
             ],
             33 => [
                 'id' => 549,
@@ -6420,7 +5887,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:18:56',
-                'deleted_at' => null,
             ],
             34 => [
                 'id' => 550,
@@ -6432,7 +5898,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:12',
-                'deleted_at' => null,
             ],
             35 => [
                 'id' => 551,
@@ -6444,7 +5909,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:31',
-                'deleted_at' => null,
             ],
             36 => [
                 'id' => 552,
@@ -6456,7 +5920,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:38',
-                'deleted_at' => null,
             ],
             37 => [
                 'id' => 553,
@@ -6468,7 +5931,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:45',
-                'deleted_at' => null,
             ],
             38 => [
                 'id' => 554,
@@ -6480,7 +5942,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:55',
-                'deleted_at' => null,
             ],
             39 => [
                 'id' => 555,
@@ -6492,7 +5953,6 @@ class CitySeeder extends Seeder
                 'district_id' => 54,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:20:02',
-                'deleted_at' => null,
             ],
             40 => [
                 'id' => 556,
@@ -6504,7 +5964,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:20:19',
-                'deleted_at' => null,
             ],
             41 => [
                 'id' => 557,
@@ -6516,7 +5975,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:20:27',
-                'deleted_at' => null,
             ],
             42 => [
                 'id' => 558,
@@ -6528,7 +5986,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:20:39',
-                'deleted_at' => null,
             ],
             43 => [
                 'id' => 559,
@@ -6540,7 +5997,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:20:51',
-                'deleted_at' => null,
             ],
             44 => [
                 'id' => 560,
@@ -6552,7 +6008,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:20:57',
-                'deleted_at' => null,
             ],
             45 => [
                 'id' => 561,
@@ -6564,7 +6019,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:21:04',
-                'deleted_at' => null,
             ],
             46 => [
                 'id' => 562,
@@ -6576,7 +6030,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:21:18',
-                'deleted_at' => null,
             ],
             47 => [
                 'id' => 563,
@@ -6588,7 +6041,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:22:22',
-                'deleted_at' => null,
             ],
             48 => [
                 'id' => 564,
@@ -6600,7 +6052,6 @@ class CitySeeder extends Seeder
                 'district_id' => 55,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:22:30',
-                'deleted_at' => null,
             ],
             49 => [
                 'id' => 565,
@@ -6612,7 +6063,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:22:51',
-                'deleted_at' => null,
             ],
             50 => [
                 'id' => 566,
@@ -6624,7 +6074,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:23:00',
-                'deleted_at' => null,
             ],
             51 => [
                 'id' => 567,
@@ -6636,7 +6085,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:23:14',
-                'deleted_at' => null,
             ],
             52 => [
                 'id' => 568,
@@ -6648,7 +6096,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:23:22',
-                'deleted_at' => null,
             ],
             53 => [
                 'id' => 569,
@@ -6660,7 +6107,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:24:25',
-                'deleted_at' => null,
             ],
             54 => [
                 'id' => 570,
@@ -6672,7 +6118,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:24:47',
-                'deleted_at' => null,
             ],
             55 => [
                 'id' => 571,
@@ -6684,7 +6129,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:17',
-                'deleted_at' => null,
             ],
             56 => [
                 'id' => 572,
@@ -6696,7 +6140,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:37',
-                'deleted_at' => null,
             ],
             57 => [
                 'id' => 573,
@@ -6708,7 +6151,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:19:50',
-                'deleted_at' => null,
             ],
             58 => [
                 'id' => 574,
@@ -6720,7 +6162,6 @@ class CitySeeder extends Seeder
                 'district_id' => 56,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:20:07',
-                'deleted_at' => null,
             ],
             59 => [
                 'id' => 578,
@@ -6732,7 +6173,6 @@ class CitySeeder extends Seeder
                 'district_id' => 57,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:09',
-                'deleted_at' => null,
             ],
             60 => [
                 'id' => 579,
@@ -6744,7 +6184,6 @@ class CitySeeder extends Seeder
                 'district_id' => 57,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:21',
-                'deleted_at' => null,
             ],
             61 => [
                 'id' => 580,
@@ -6756,7 +6195,6 @@ class CitySeeder extends Seeder
                 'district_id' => 57,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:33',
-                'deleted_at' => null,
             ],
             62 => [
                 'id' => 584,
@@ -6768,7 +6206,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:59:59',
-                'deleted_at' => null,
             ],
             63 => [
                 'id' => 585,
@@ -6780,7 +6217,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:00:11',
-                'deleted_at' => null,
             ],
             64 => [
                 'id' => 586,
@@ -6792,7 +6228,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:00:26',
-                'deleted_at' => null,
             ],
             65 => [
                 'id' => 587,
@@ -6804,7 +6239,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:00:44',
-                'deleted_at' => null,
             ],
             66 => [
                 'id' => 588,
@@ -6816,7 +6250,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:00:55',
-                'deleted_at' => null,
             ],
             67 => [
                 'id' => 589,
@@ -6828,7 +6261,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:01:14',
-                'deleted_at' => null,
             ],
             68 => [
                 'id' => 590,
@@ -6840,7 +6272,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:01:31',
-                'deleted_at' => null,
             ],
             69 => [
                 'id' => 591,
@@ -6852,7 +6283,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:01:49',
-                'deleted_at' => null,
             ],
             70 => [
                 'id' => 592,
@@ -6864,7 +6294,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:02:06',
-                'deleted_at' => null,
             ],
             71 => [
                 'id' => 593,
@@ -6876,7 +6305,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:02:21',
-                'deleted_at' => null,
             ],
             72 => [
                 'id' => 594,
@@ -6888,7 +6316,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:02:46',
-                'deleted_at' => null,
             ],
             73 => [
                 'id' => 595,
@@ -6900,7 +6327,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:03:10',
-                'deleted_at' => null,
             ],
             74 => [
                 'id' => 596,
@@ -6912,7 +6338,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:03:24',
-                'deleted_at' => null,
             ],
             75 => [
                 'id' => 597,
@@ -6924,7 +6349,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:03:44',
-                'deleted_at' => null,
             ],
             76 => [
                 'id' => 598,
@@ -6936,7 +6360,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:03:57',
-                'deleted_at' => null,
             ],
             77 => [
                 'id' => 599,
@@ -6948,7 +6371,6 @@ class CitySeeder extends Seeder
                 'district_id' => 58,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 11:04:13',
-                'deleted_at' => null,
             ],
             78 => [
                 'id' => 600,
@@ -6960,7 +6382,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:25:35',
-                'deleted_at' => null,
             ],
             79 => [
                 'id' => 601,
@@ -6972,7 +6393,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:25:56',
-                'deleted_at' => null,
             ],
             80 => [
                 'id' => 602,
@@ -6984,7 +6404,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:06',
-                'deleted_at' => null,
             ],
             81 => [
                 'id' => 603,
@@ -6996,7 +6415,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:17',
-                'deleted_at' => null,
             ],
             82 => [
                 'id' => 604,
@@ -7008,7 +6426,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:27',
-                'deleted_at' => null,
             ],
             83 => [
                 'id' => 605,
@@ -7020,7 +6437,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:36',
-                'deleted_at' => null,
             ],
             84 => [
                 'id' => 606,
@@ -7032,7 +6448,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:26:46',
-                'deleted_at' => null,
             ],
             85 => [
                 'id' => 607,
@@ -7044,7 +6459,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 10:27:33',
-                'deleted_at' => null,
             ],
             86 => [
                 'id' => 608,
@@ -7056,7 +6470,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:28:19',
-                'deleted_at' => null,
             ],
             87 => [
                 'id' => 609,
@@ -7068,7 +6481,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:28:25',
-                'deleted_at' => null,
             ],
             88 => [
                 'id' => 610,
@@ -7080,7 +6492,6 @@ class CitySeeder extends Seeder
                 'district_id' => 59,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:28:45',
-                'deleted_at' => null,
             ],
             89 => [
                 'id' => 611,
@@ -7092,7 +6503,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:29:35',
-                'deleted_at' => null,
             ],
             90 => [
                 'id' => 612,
@@ -7104,7 +6514,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:35:20',
-                'deleted_at' => null,
             ],
             91 => [
                 'id' => 613,
@@ -7116,7 +6525,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:35:32',
-                'deleted_at' => null,
             ],
             92 => [
                 'id' => 614,
@@ -7128,7 +6536,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:35:41',
-                'deleted_at' => null,
             ],
             93 => [
                 'id' => 615,
@@ -7140,7 +6547,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:35:54',
-                'deleted_at' => null,
             ],
             94 => [
                 'id' => 616,
@@ -7152,7 +6558,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:36:09',
-                'deleted_at' => null,
             ],
             95 => [
                 'id' => 617,
@@ -7164,7 +6569,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:36:35',
-                'deleted_at' => null,
             ],
             96 => [
                 'id' => 618,
@@ -7176,7 +6580,6 @@ class CitySeeder extends Seeder
                 'district_id' => 60,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:36:55',
-                'deleted_at' => null,
             ],
             97 => [
                 'id' => 619,
@@ -7188,7 +6591,6 @@ class CitySeeder extends Seeder
                 'district_id' => 61,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:37:21',
-                'deleted_at' => null,
             ],
             98 => [
                 'id' => 620,
@@ -7200,7 +6602,6 @@ class CitySeeder extends Seeder
                 'district_id' => 61,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:40:58',
-                'deleted_at' => null,
             ],
             99 => [
                 'id' => 621,
@@ -7212,7 +6613,6 @@ class CitySeeder extends Seeder
                 'district_id' => 61,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:41:13',
-                'deleted_at' => null,
             ],
             100 => [
                 'id' => 622,
@@ -7224,7 +6624,6 @@ class CitySeeder extends Seeder
                 'district_id' => 61,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:42:33',
-                'deleted_at' => null,
             ],
             101 => [
                 'id' => 623,
@@ -7236,7 +6635,6 @@ class CitySeeder extends Seeder
                 'district_id' => 61,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:42:52',
-                'deleted_at' => null,
             ],
             102 => [
                 'id' => 624,
@@ -7248,7 +6646,6 @@ class CitySeeder extends Seeder
                 'district_id' => 61,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:44:05',
-                'deleted_at' => null,
             ],
             103 => [
                 'id' => 625,
@@ -7260,7 +6657,6 @@ class CitySeeder extends Seeder
                 'district_id' => 61,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:44:12',
-                'deleted_at' => null,
             ],
             104 => [
                 'id' => 626,
@@ -7272,7 +6668,6 @@ class CitySeeder extends Seeder
                 'district_id' => 62,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:44:39',
-                'deleted_at' => null,
             ],
             105 => [
                 'id' => 627,
@@ -7284,7 +6679,6 @@ class CitySeeder extends Seeder
                 'district_id' => 62,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:45:56',
-                'deleted_at' => null,
             ],
             106 => [
                 'id' => 628,
@@ -7296,7 +6690,6 @@ class CitySeeder extends Seeder
                 'district_id' => 62,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:46:03',
-                'deleted_at' => null,
             ],
             107 => [
                 'id' => 629,
@@ -7308,7 +6701,6 @@ class CitySeeder extends Seeder
                 'district_id' => 62,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:46:10',
-                'deleted_at' => null,
             ],
             108 => [
                 'id' => 630,
@@ -7320,7 +6712,6 @@ class CitySeeder extends Seeder
                 'district_id' => 62,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:46:18',
-                'deleted_at' => null,
             ],
             109 => [
                 'id' => 631,
@@ -7332,7 +6723,6 @@ class CitySeeder extends Seeder
                 'district_id' => 62,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:46:23',
-                'deleted_at' => null,
             ],
             110 => [
                 'id' => 632,
@@ -7344,7 +6734,6 @@ class CitySeeder extends Seeder
                 'district_id' => 62,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:46:33',
-                'deleted_at' => null,
             ],
             111 => [
                 'id' => 633,
@@ -7356,7 +6745,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:46:48',
-                'deleted_at' => null,
             ],
             112 => [
                 'id' => 634,
@@ -7368,7 +6756,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:46:56',
-                'deleted_at' => null,
             ],
             113 => [
                 'id' => 635,
@@ -7380,7 +6767,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:47:06',
-                'deleted_at' => null,
             ],
             114 => [
                 'id' => 636,
@@ -7392,7 +6778,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:47:13',
-                'deleted_at' => null,
             ],
             115 => [
                 'id' => 637,
@@ -7404,7 +6789,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:47:26',
-                'deleted_at' => null,
             ],
             116 => [
                 'id' => 638,
@@ -7416,7 +6800,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:47:33',
-                'deleted_at' => null,
             ],
             117 => [
                 'id' => 639,
@@ -7428,7 +6811,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:47:41',
-                'deleted_at' => null,
             ],
             118 => [
                 'id' => 640,
@@ -7440,7 +6822,6 @@ class CitySeeder extends Seeder
                 'district_id' => 63,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:47:49',
-                'deleted_at' => null,
             ],
             119 => [
                 'id' => 641,
@@ -7452,7 +6833,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:48:55',
-                'deleted_at' => null,
             ],
             120 => [
                 'id' => 642,
@@ -7464,7 +6844,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:49:18',
-                'deleted_at' => null,
             ],
             121 => [
                 'id' => 643,
@@ -7476,7 +6855,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:49:28',
-                'deleted_at' => null,
             ],
             122 => [
                 'id' => 644,
@@ -7488,7 +6866,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:49:37',
-                'deleted_at' => null,
             ],
             123 => [
                 'id' => 645,
@@ -7500,7 +6877,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:49:51',
-                'deleted_at' => null,
             ],
             124 => [
                 'id' => 646,
@@ -7512,7 +6888,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:50:00',
-                'deleted_at' => null,
             ],
             125 => [
                 'id' => 647,
@@ -7524,7 +6899,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:50:14',
-                'deleted_at' => null,
             ],
             126 => [
                 'id' => 648,
@@ -7536,7 +6910,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:51:45',
-                'deleted_at' => null,
             ],
             127 => [
                 'id' => 649,
@@ -7548,7 +6921,6 @@ class CitySeeder extends Seeder
                 'district_id' => 64,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:52:36',
-                'deleted_at' => null,
             ],
             128 => [
                 'id' => 650,
@@ -7560,7 +6932,6 @@ class CitySeeder extends Seeder
                 'district_id' => 65,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:55:37',
-                'deleted_at' => null,
             ],
             129 => [
                 'id' => 651,
@@ -7572,7 +6943,6 @@ class CitySeeder extends Seeder
                 'district_id' => 65,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:55:52',
-                'deleted_at' => null,
             ],
             130 => [
                 'id' => 652,
@@ -7584,7 +6954,6 @@ class CitySeeder extends Seeder
                 'district_id' => 65,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:57:01',
-                'deleted_at' => null,
             ],
             131 => [
                 'id' => 653,
@@ -7596,7 +6965,6 @@ class CitySeeder extends Seeder
                 'district_id' => 65,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:57:13',
-                'deleted_at' => null,
             ],
             132 => [
                 'id' => 654,
@@ -7608,7 +6976,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:57:36',
-                'deleted_at' => null,
             ],
             133 => [
                 'id' => 655,
@@ -7620,7 +6987,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:57:53',
-                'deleted_at' => null,
             ],
             134 => [
                 'id' => 656,
@@ -7632,7 +6998,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:58:00',
-                'deleted_at' => null,
             ],
             135 => [
                 'id' => 657,
@@ -7644,7 +7009,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:58:09',
-                'deleted_at' => null,
             ],
             136 => [
                 'id' => 658,
@@ -7656,7 +7020,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:58:19',
-                'deleted_at' => null,
             ],
             137 => [
                 'id' => 659,
@@ -7668,7 +7031,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:58:26',
-                'deleted_at' => null,
             ],
             138 => [
                 'id' => 660,
@@ -7680,7 +7042,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:58:35',
-                'deleted_at' => null,
             ],
             139 => [
                 'id' => 661,
@@ -7692,7 +7053,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:58:47',
-                'deleted_at' => null,
             ],
             140 => [
                 'id' => 662,
@@ -7704,7 +7064,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:58:58',
-                'deleted_at' => null,
             ],
             141 => [
                 'id' => 663,
@@ -7716,7 +7075,6 @@ class CitySeeder extends Seeder
                 'district_id' => 67,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:59:20',
-                'deleted_at' => null,
             ],
             142 => [
                 'id' => 664,
@@ -7728,7 +7086,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:59:39',
-                'deleted_at' => null,
             ],
             143 => [
                 'id' => 665,
@@ -7740,7 +7097,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:59:46',
-                'deleted_at' => null,
             ],
             144 => [
                 'id' => 666,
@@ -7752,7 +7108,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 10:59:54',
-                'deleted_at' => null,
             ],
             145 => [
                 'id' => 667,
@@ -7764,7 +7119,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:00:06',
-                'deleted_at' => null,
             ],
             146 => [
                 'id' => 668,
@@ -7776,7 +7130,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:00:14',
-                'deleted_at' => null,
             ],
             147 => [
                 'id' => 669,
@@ -7788,7 +7141,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:00:24',
-                'deleted_at' => null,
             ],
             148 => [
                 'id' => 670,
@@ -7800,7 +7152,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:00:33',
-                'deleted_at' => null,
             ],
             149 => [
                 'id' => 671,
@@ -7812,7 +7163,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:00:45',
-                'deleted_at' => null,
             ],
             150 => [
                 'id' => 672,
@@ -7824,7 +7174,6 @@ class CitySeeder extends Seeder
                 'district_id' => 68,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:00:52',
-                'deleted_at' => null,
             ],
             151 => [
                 'id' => 673,
@@ -7836,7 +7185,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:01:07',
-                'deleted_at' => null,
             ],
             152 => [
                 'id' => 674,
@@ -7848,7 +7196,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:01:16',
-                'deleted_at' => null,
             ],
             153 => [
                 'id' => 675,
@@ -7860,7 +7207,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:01:23',
-                'deleted_at' => null,
             ],
             154 => [
                 'id' => 676,
@@ -7872,7 +7218,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:01:32',
-                'deleted_at' => null,
             ],
             155 => [
                 'id' => 677,
@@ -7884,7 +7229,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:01:51',
-                'deleted_at' => null,
             ],
             156 => [
                 'id' => 678,
@@ -7896,7 +7240,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:02:03',
-                'deleted_at' => null,
             ],
             157 => [
                 'id' => 679,
@@ -7908,7 +7251,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:02:19',
-                'deleted_at' => null,
             ],
             158 => [
                 'id' => 680,
@@ -7920,7 +7262,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:02:29',
-                'deleted_at' => null,
             ],
             159 => [
                 'id' => 681,
@@ -7932,7 +7273,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:02:43',
-                'deleted_at' => null,
             ],
             160 => [
                 'id' => 682,
@@ -7944,7 +7284,6 @@ class CitySeeder extends Seeder
                 'district_id' => 69,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 11:03:17',
-                'deleted_at' => null,
             ],
             161 => [
                 'id' => 683,
@@ -7956,7 +7295,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:04:59',
-                'deleted_at' => null,
             ],
             162 => [
                 'id' => 684,
@@ -7968,7 +7306,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:05:12',
-                'deleted_at' => null,
             ],
             163 => [
                 'id' => 685,
@@ -7980,7 +7317,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:05:39',
-                'deleted_at' => null,
             ],
             164 => [
                 'id' => 686,
@@ -7992,7 +7328,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:05:54',
-                'deleted_at' => null,
             ],
             165 => [
                 'id' => 687,
@@ -8004,7 +7339,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:06:10',
-                'deleted_at' => null,
             ],
             166 => [
                 'id' => 688,
@@ -8016,7 +7350,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:06:22',
-                'deleted_at' => null,
             ],
             167 => [
                 'id' => 689,
@@ -8028,7 +7361,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:06:36',
-                'deleted_at' => null,
             ],
             168 => [
                 'id' => 690,
@@ -8040,7 +7372,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:06:47',
-                'deleted_at' => null,
             ],
             169 => [
                 'id' => 691,
@@ -8052,7 +7383,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:07:14',
-                'deleted_at' => null,
             ],
             170 => [
                 'id' => 692,
@@ -8064,7 +7394,6 @@ class CitySeeder extends Seeder
                 'district_id' => 70,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:07:30',
-                'deleted_at' => null,
             ],
             171 => [
                 'id' => 693,
@@ -8076,7 +7405,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:08:14',
-                'deleted_at' => null,
             ],
             172 => [
                 'id' => 694,
@@ -8088,7 +7416,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:08:43',
-                'deleted_at' => null,
             ],
             173 => [
                 'id' => 695,
@@ -8100,7 +7427,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:09:09',
-                'deleted_at' => null,
             ],
             174 => [
                 'id' => 696,
@@ -8112,7 +7438,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:09:25',
-                'deleted_at' => null,
             ],
             175 => [
                 'id' => 697,
@@ -8124,7 +7449,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:09:47',
-                'deleted_at' => null,
             ],
             176 => [
                 'id' => 698,
@@ -8136,7 +7460,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:10:02',
-                'deleted_at' => null,
             ],
             177 => [
                 'id' => 699,
@@ -8148,7 +7471,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:10:17',
-                'deleted_at' => null,
             ],
             178 => [
                 'id' => 700,
@@ -8160,7 +7482,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:10:29',
-                'deleted_at' => null,
             ],
             179 => [
                 'id' => 701,
@@ -8172,7 +7493,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:10:52',
-                'deleted_at' => null,
             ],
             180 => [
                 'id' => 702,
@@ -8184,7 +7504,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:11:06',
-                'deleted_at' => null,
             ],
             181 => [
                 'id' => 703,
@@ -8196,7 +7515,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:11:20',
-                'deleted_at' => null,
             ],
             182 => [
                 'id' => 704,
@@ -8208,7 +7526,6 @@ class CitySeeder extends Seeder
                 'district_id' => 71,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:11:34',
-                'deleted_at' => null,
             ],
             183 => [
                 'id' => 705,
@@ -8220,7 +7537,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:12:15',
-                'deleted_at' => null,
             ],
             184 => [
                 'id' => 706,
@@ -8232,7 +7548,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:12:35',
-                'deleted_at' => null,
             ],
             185 => [
                 'id' => 707,
@@ -8244,7 +7559,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:13:14',
-                'deleted_at' => null,
             ],
             186 => [
                 'id' => 708,
@@ -8256,7 +7570,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:13:29',
-                'deleted_at' => null,
             ],
             187 => [
                 'id' => 709,
@@ -8268,7 +7581,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:14:36',
-                'deleted_at' => null,
             ],
             188 => [
                 'id' => 710,
@@ -8280,7 +7592,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:14:58',
-                'deleted_at' => null,
             ],
             189 => [
                 'id' => 711,
@@ -8292,7 +7603,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:15:19',
-                'deleted_at' => null,
             ],
             190 => [
                 'id' => 712,
@@ -8304,7 +7614,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:06:10',
-                'deleted_at' => null,
             ],
             191 => [
                 'id' => 713,
@@ -8316,7 +7625,6 @@ class CitySeeder extends Seeder
                 'district_id' => 72,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:06:20',
-                'deleted_at' => null,
             ],
             192 => [
                 'id' => 714,
@@ -8328,7 +7636,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:45:46',
-                'deleted_at' => null,
             ],
             193 => [
                 'id' => 715,
@@ -8340,7 +7647,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:45:56',
-                'deleted_at' => null,
             ],
             194 => [
                 'id' => 716,
@@ -8352,7 +7658,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:46:03',
-                'deleted_at' => null,
             ],
             195 => [
                 'id' => 717,
@@ -8364,7 +7669,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:45:37',
-                'deleted_at' => null,
             ],
             196 => [
                 'id' => 718,
@@ -8376,7 +7680,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:45:15',
-                'deleted_at' => null,
             ],
             197 => [
                 'id' => 719,
@@ -8388,7 +7691,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:46:10',
-                'deleted_at' => null,
             ],
             198 => [
                 'id' => 720,
@@ -8400,7 +7702,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:46:33',
-                'deleted_at' => null,
             ],
             199 => [
                 'id' => 721,
@@ -8412,7 +7713,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:46:42',
-                'deleted_at' => null,
             ],
             200 => [
                 'id' => 722,
@@ -8424,7 +7724,6 @@ class CitySeeder extends Seeder
                 'district_id' => 74,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 06:45:08',
-                'deleted_at' => null,
             ],
             201 => [
                 'id' => 723,
@@ -8436,7 +7735,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:10:41',
-                'deleted_at' => null,
             ],
             202 => [
                 'id' => 724,
@@ -8448,7 +7746,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:10:49',
-                'deleted_at' => null,
             ],
             203 => [
                 'id' => 725,
@@ -8460,7 +7757,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:11:00',
-                'deleted_at' => null,
             ],
             204 => [
                 'id' => 726,
@@ -8472,7 +7768,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:11:14',
-                'deleted_at' => null,
             ],
             205 => [
                 'id' => 727,
@@ -8484,7 +7779,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:11:25',
-                'deleted_at' => null,
             ],
             206 => [
                 'id' => 728,
@@ -8496,7 +7790,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:11:36',
-                'deleted_at' => null,
             ],
             207 => [
                 'id' => 729,
@@ -8508,7 +7801,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:12:11',
-                'deleted_at' => null,
             ],
             208 => [
                 'id' => 730,
@@ -8520,7 +7812,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:12:21',
-                'deleted_at' => null,
             ],
             209 => [
                 'id' => 731,
@@ -8532,7 +7823,6 @@ class CitySeeder extends Seeder
                 'district_id' => 75,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 11:13:20',
-                'deleted_at' => null,
             ],
             210 => [
                 'id' => 732,
@@ -8544,7 +7834,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:44:28',
-                'deleted_at' => null,
             ],
             211 => [
                 'id' => 733,
@@ -8556,7 +7845,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:44:44',
-                'deleted_at' => null,
             ],
             212 => [
                 'id' => 734,
@@ -8568,7 +7856,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:45:06',
-                'deleted_at' => null,
             ],
             213 => [
                 'id' => 735,
@@ -8580,7 +7867,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:45:25',
-                'deleted_at' => null,
             ],
             214 => [
                 'id' => 736,
@@ -8592,7 +7878,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:45:39',
-                'deleted_at' => null,
             ],
             215 => [
                 'id' => 737,
@@ -8604,7 +7889,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:46:20',
-                'deleted_at' => null,
             ],
             216 => [
                 'id' => 738,
@@ -8616,7 +7900,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:46:41',
-                'deleted_at' => null,
             ],
             217 => [
                 'id' => 739,
@@ -8628,7 +7911,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:46:57',
-                'deleted_at' => null,
             ],
             218 => [
                 'id' => 740,
@@ -8640,7 +7922,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:47:21',
-                'deleted_at' => null,
             ],
             219 => [
                 'id' => 741,
@@ -8652,7 +7933,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:47:50',
-                'deleted_at' => null,
             ],
             220 => [
                 'id' => 742,
@@ -8664,7 +7944,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:49:58',
-                'deleted_at' => null,
             ],
             221 => [
                 'id' => 743,
@@ -8676,7 +7955,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:50:15',
-                'deleted_at' => null,
             ],
             222 => [
                 'id' => 744,
@@ -8688,7 +7966,6 @@ class CitySeeder extends Seeder
                 'district_id' => 76,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:50:29',
-                'deleted_at' => null,
             ],
             223 => [
                 'id' => 745,
@@ -8700,7 +7977,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:51:14',
-                'deleted_at' => null,
             ],
             224 => [
                 'id' => 746,
@@ -8712,7 +7988,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:51:27',
-                'deleted_at' => null,
             ],
             225 => [
                 'id' => 747,
@@ -8724,7 +7999,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:51:42',
-                'deleted_at' => null,
             ],
             226 => [
                 'id' => 748,
@@ -8736,7 +8010,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:51:58',
-                'deleted_at' => null,
             ],
             227 => [
                 'id' => 749,
@@ -8748,7 +8021,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:52:22',
-                'deleted_at' => null,
             ],
             228 => [
                 'id' => 750,
@@ -8760,7 +8032,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:52:45',
-                'deleted_at' => null,
             ],
             229 => [
                 'id' => 751,
@@ -8772,7 +8043,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:53:00',
-                'deleted_at' => null,
             ],
             230 => [
                 'id' => 752,
@@ -8784,7 +8054,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:53:20',
-                'deleted_at' => null,
             ],
             231 => [
                 'id' => 753,
@@ -8796,7 +8065,6 @@ class CitySeeder extends Seeder
                 'district_id' => 77,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:53:34',
-                'deleted_at' => null,
             ],
             232 => [
                 'id' => 754,
@@ -8808,7 +8076,6 @@ class CitySeeder extends Seeder
                 'district_id' => 79,
                 'created_at' => '2019-10-07 10:48:34',
                 'updated_at' => '2019-10-11 06:56:43',
-                'deleted_at' => null,
             ],
             233 => [
                 'id' => 755,
@@ -8820,7 +8087,6 @@ class CitySeeder extends Seeder
                 'district_id' => 79,
                 'created_at' => '2019-10-07 10:49:36',
                 'updated_at' => '2019-10-11 06:56:52',
-                'deleted_at' => null,
             ],
             234 => [
                 'id' => 756,
@@ -8832,7 +8098,6 @@ class CitySeeder extends Seeder
                 'district_id' => 79,
                 'created_at' => '2019-10-07 10:50:30',
                 'updated_at' => '2019-10-11 06:57:01',
-                'deleted_at' => null,
             ],
             235 => [
                 'id' => 757,
@@ -8844,7 +8109,6 @@ class CitySeeder extends Seeder
                 'district_id' => 79,
                 'created_at' => '2019-10-07 10:54:09',
                 'updated_at' => '2019-10-11 06:56:27',
-                'deleted_at' => null,
             ],
             236 => [
                 'id' => 758,
@@ -8856,7 +8120,6 @@ class CitySeeder extends Seeder
                 'district_id' => 79,
                 'created_at' => '2019-10-07 10:56:42',
                 'updated_at' => '2019-10-11 06:56:21',
-                'deleted_at' => null,
             ],
             237 => [
                 'id' => 759,
@@ -8868,7 +8131,6 @@ class CitySeeder extends Seeder
                 'district_id' => 79,
                 'created_at' => '2019-10-07 10:58:38',
                 'updated_at' => '2019-10-11 06:56:12',
-                'deleted_at' => null,
             ],
             238 => [
                 'id' => 760,
@@ -8880,7 +8142,6 @@ class CitySeeder extends Seeder
                 'district_id' => 79,
                 'created_at' => '2019-10-11 06:52:08',
                 'updated_at' => '2019-10-11 06:52:08',
-                'deleted_at' => null,
             ],
         ]);
     }

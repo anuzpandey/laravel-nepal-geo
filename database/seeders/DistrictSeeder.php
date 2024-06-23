@@ -20,7 +20,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 05:24:29',
-                'deleted_at' => null,
             ],
             1 => [
                 'id' => 2,
@@ -30,7 +29,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 05:25:24',
-                'deleted_at' => null,
             ],
             2 => [
                 'id' => 3,
@@ -40,7 +38,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 05:25:35',
-                'deleted_at' => null,
             ],
             3 => [
                 'id' => 4,
@@ -50,7 +47,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:26:06',
-                'deleted_at' => null,
             ],
             4 => [
                 'id' => 5,
@@ -60,7 +56,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:26:52',
-                'deleted_at' => null,
             ],
             5 => [
                 'id' => 6,
@@ -70,7 +65,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:27:22',
-                'deleted_at' => null,
             ],
             6 => [
                 'id' => 7,
@@ -80,7 +74,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:27:40',
-                'deleted_at' => null,
             ],
             7 => [
                 'id' => 8,
@@ -90,7 +83,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:27:55',
-                'deleted_at' => null,
             ],
             8 => [
                 'id' => 9,
@@ -100,7 +92,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:29:58',
-                'deleted_at' => null,
             ],
             9 => [
                 'id' => 10,
@@ -110,7 +101,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:28:06',
-                'deleted_at' => null,
             ],
             10 => [
                 'id' => 11,
@@ -120,7 +110,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:30:11',
-                'deleted_at' => null,
             ],
             11 => [
                 'id' => 12,
@@ -130,7 +119,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:30:27',
-                'deleted_at' => null,
             ],
             12 => [
                 'id' => 13,
@@ -140,7 +128,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:30:44',
-                'deleted_at' => null,
             ],
             13 => [
                 'id' => 14,
@@ -150,7 +137,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 1,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:31:16',
-                'deleted_at' => null,
             ],
             14 => [
                 'id' => 15,
@@ -160,7 +146,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:31:28',
-                'deleted_at' => null,
             ],
             15 => [
                 'id' => 16,
@@ -170,7 +155,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:32:28',
-                'deleted_at' => null,
             ],
             16 => [
                 'id' => 17,
@@ -180,7 +164,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:32:41',
-                'deleted_at' => null,
             ],
             17 => [
                 'id' => 18,
@@ -190,7 +173,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:01',
-                'deleted_at' => null,
             ],
             18 => [
                 'id' => 19,
@@ -200,7 +182,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:19',
-                'deleted_at' => null,
             ],
             19 => [
                 'id' => 20,
@@ -210,7 +191,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:32',
-                'deleted_at' => null,
             ],
             20 => [
                 'id' => 21,
@@ -220,7 +200,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:46',
-                'deleted_at' => null,
             ],
             21 => [
                 'id' => 22,
@@ -230,7 +209,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 2,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:00',
-                'deleted_at' => null,
             ],
             22 => [
                 'id' => 23,
@@ -240,7 +218,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:30',
-                'deleted_at' => null,
             ],
             23 => [
                 'id' => 24,
@@ -250,7 +227,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:40',
-                'deleted_at' => null,
             ],
             24 => [
                 'id' => 25,
@@ -260,7 +236,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:53',
-                'deleted_at' => null,
             ],
             25 => [
                 'id' => 26,
@@ -270,7 +245,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:06',
-                'deleted_at' => null,
             ],
             26 => [
                 'id' => 27,
@@ -280,7 +254,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:19',
-                'deleted_at' => null,
             ],
             27 => [
                 'id' => 28,
@@ -290,7 +263,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:47',
-                'deleted_at' => null,
             ],
             28 => [
                 'id' => 29,
@@ -300,7 +272,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:58',
-                'deleted_at' => null,
             ],
             29 => [
                 'id' => 30,
@@ -310,7 +281,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:36:09',
-                'deleted_at' => null,
             ],
             30 => [
                 'id' => 31,
@@ -320,7 +290,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:01',
-                'deleted_at' => null,
             ],
             31 => [
                 'id' => 32,
@@ -330,7 +299,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:12',
-                'deleted_at' => null,
             ],
             32 => [
                 'id' => 33,
@@ -340,7 +308,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:30',
-                'deleted_at' => null,
             ],
             33 => [
                 'id' => 34,
@@ -350,7 +317,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:47',
-                'deleted_at' => null,
             ],
             34 => [
                 'id' => 35,
@@ -360,7 +326,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:01',
-                'deleted_at' => null,
             ],
             35 => [
                 'id' => 36,
@@ -370,7 +335,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:14',
-                'deleted_at' => null,
             ],
             36 => [
                 'id' => 37,
@@ -380,7 +344,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:30',
-                'deleted_at' => null,
             ],
             37 => [
                 'id' => 38,
@@ -390,7 +353,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:42',
-                'deleted_at' => null,
             ],
             38 => [
                 'id' => 39,
@@ -400,7 +362,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:57',
-                'deleted_at' => null,
             ],
             39 => [
                 'id' => 40,
@@ -410,7 +371,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:41:54',
-                'deleted_at' => null,
             ],
             40 => [
                 'id' => 41,
@@ -420,7 +380,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:42:07',
-                'deleted_at' => null,
             ],
             41 => [
                 'id' => 42,
@@ -430,7 +389,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:42:23',
-                'deleted_at' => null,
             ],
             42 => [
                 'id' => 43,
@@ -440,7 +398,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 10:03:52',
-                'deleted_at' => null,
             ],
             43 => [
                 'id' => 44,
@@ -450,7 +407,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:42:59',
-                'deleted_at' => null,
             ],
             44 => [
                 'id' => 45,
@@ -460,7 +416,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:43:10',
-                'deleted_at' => null,
             ],
             45 => [
                 'id' => 46,
@@ -470,7 +425,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:43:25',
-                'deleted_at' => null,
             ],
             46 => [
                 'id' => 47,
@@ -480,7 +434,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:45:09',
-                'deleted_at' => null,
             ],
             47 => [
                 'id' => 48,
@@ -490,7 +443,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:49:23',
-                'deleted_at' => null,
             ],
             48 => [
                 'id' => 49,
@@ -500,7 +452,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:49:35',
-                'deleted_at' => null,
             ],
             49 => [
                 'id' => 50,
@@ -510,7 +461,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:49:54',
-                'deleted_at' => null,
             ],
             50 => [
                 'id' => 51,
@@ -520,7 +470,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:50:05',
-                'deleted_at' => null,
             ],
             51 => [
                 'id' => 52,
@@ -530,7 +479,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:51:39',
-                'deleted_at' => null,
             ],
             52 => [
                 'id' => 53,
@@ -540,7 +488,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:51:50',
-                'deleted_at' => null,
             ],
             53 => [
                 'id' => 54,
@@ -550,7 +497,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:03',
-                'deleted_at' => null,
             ],
             54 => [
                 'id' => 55,
@@ -560,7 +506,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:16',
-                'deleted_at' => null,
             ],
             55 => [
                 'id' => 56,
@@ -570,7 +515,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:30',
-                'deleted_at' => null,
             ],
             56 => [
                 'id' => 57,
@@ -580,7 +524,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:38',
-                'deleted_at' => null,
             ],
             57 => [
                 'id' => 58,
@@ -590,7 +533,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:50',
-                'deleted_at' => null,
             ],
             58 => [
                 'id' => 59,
@@ -600,7 +542,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:54:58',
-                'deleted_at' => null,
             ],
             59 => [
                 'id' => 60,
@@ -610,7 +551,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:55:43',
-                'deleted_at' => null,
             ],
             60 => [
                 'id' => 61,
@@ -620,7 +560,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:55:58',
-                'deleted_at' => null,
             ],
             61 => [
                 'id' => 62,
@@ -630,7 +569,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:56:43',
-                'deleted_at' => null,
             ],
             62 => [
                 'id' => 63,
@@ -640,7 +578,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:56:59',
-                'deleted_at' => null,
             ],
             63 => [
                 'id' => 64,
@@ -650,7 +587,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:57:10',
-                'deleted_at' => null,
             ],
             64 => [
                 'id' => 65,
@@ -660,7 +596,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:57:20',
-                'deleted_at' => null,
             ],
             65 => [
                 'id' => 67,
@@ -670,7 +605,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:59:02',
-                'deleted_at' => null,
             ],
             66 => [
                 'id' => 68,
@@ -680,7 +614,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:59:10',
-                'deleted_at' => null,
             ],
             67 => [
                 'id' => 69,
@@ -690,7 +623,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 06:00:47',
-                'deleted_at' => null,
             ],
             68 => [
                 'id' => 70,
@@ -700,7 +632,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 06:01:02',
-                'deleted_at' => null,
             ],
             69 => [
                 'id' => 71,
@@ -710,7 +641,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:01:19',
-                'deleted_at' => null,
             ],
             70 => [
                 'id' => 72,
@@ -720,7 +650,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:01:31',
-                'deleted_at' => null,
             ],
             71 => [
                 'id' => 74,
@@ -730,7 +659,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:03:59',
-                'deleted_at' => null,
             ],
             72 => [
                 'id' => 75,
@@ -740,7 +668,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:04:11',
-                'deleted_at' => null,
             ],
             73 => [
                 'id' => 76,
@@ -750,7 +677,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:42:18',
-                'deleted_at' => null,
             ],
             74 => [
                 'id' => 77,
@@ -760,7 +686,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:42:27',
-                'deleted_at' => null,
             ],
             75 => [
                 'id' => 79,
@@ -770,7 +695,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 7,
                 'created_at' => '2019-10-11 05:57:22',
                 'updated_at' => '2019-10-11 05:57:22',
-                'deleted_at' => null,
             ],
             76 => [
                 'id' => 80,
@@ -780,7 +704,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 6,
                 'created_at' => '2019-10-11 06:55:02',
                 'updated_at' => '2019-12-26 20:44:29',
-                'deleted_at' => null,
             ],
             77 => [
                 'id' => 84,
@@ -790,7 +713,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-04-04 16:10:36',
                 'updated_at' => '2019-04-04 16:10:36',
-                'deleted_at' => null,
             ],
             78 => [
                 'id' => 85,
@@ -800,7 +722,6 @@ class DistrictSeeder extends Seeder
                 'province_id' => 5,
                 'created_at' => '2019-04-04 16:11:15',
                 'updated_at' => '2019-04-04 16:11:15',
-                'deleted_at' => null,
             ],
         ]);
     }
