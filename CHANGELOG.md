@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-nepal-geo` will be documented in this file.
 
+## Release 1.2.4 - 2024-06-23
+
+- :hammer: fix: remove `deleted_at` from all the seeder class.
+
 ## Release 1.2.3 - 2024-06-23
 
 - :hammer: fix: remove all instance of `provinces` from the package.
