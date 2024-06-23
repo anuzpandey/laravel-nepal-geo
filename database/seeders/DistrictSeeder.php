@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AnuzPandey\Database\Seeders;
+namespace AnuzPandey\LaravelNepalGeo\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
