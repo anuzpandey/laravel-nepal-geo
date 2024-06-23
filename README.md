@@ -35,6 +35,46 @@ return [
 ];
 ```
 
+## Usage
+
+After running the migrations, you can use the following seeder classes to seed the data.
+
+```php
+use AnuzPandey\LaravelNepalGeo\Database\Seeders\NepalGeoSeeder;
+
+class DatabaseSeeder extends Seeder
+{
+    public function run(): void
+    {
+        $this->call([
+            // This will seed the data for Nepal's Province, Districts and City
+            NepalGeoSeeder::class, 
+        ]);
+    }
+}
+```
+
+Or you can include individual seeder classes to seed the data.
+
+```php
+use AnuzPandey\Database\Seeders\DistrictSeeder;
+use AnuzPandey\LaravelNepalGeo\Database\Seeders\CitySeeder;
+use AnuzPandey\LaravelNepalGeo\Database\Seeders\StateSeeder;
+
+class DatabaseSeeder extends Seeder
+{
+    public function run(): void
+    {
+        $this->call([
+            ProvinceSeeder::class,
+            DistrictSeeder::class,
+            CitySeeder::class,
+        ]);
+    }
+}
+```
+
+
 ## Testing
 
 ```bash
