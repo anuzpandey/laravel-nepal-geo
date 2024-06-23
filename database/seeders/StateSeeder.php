@@ -11,7 +11,7 @@ class StateSeeder extends Seeder
 {
     public function run(): void
     {
-        DB::table('provinces')->insert([
+        DB::table('states')->insert([
             [
                 'id' => 1,
                 'name' => 'Province No. 1',

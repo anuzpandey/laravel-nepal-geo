@@ -57,7 +57,7 @@ class DatabaseSeeder extends Seeder
 Or you can include individual seeder classes to seed the data.
 
 ```php
-use AnuzPandey\Database\Seeders\DistrictSeeder;
+use AnuzPandey\LaravelNepalGeo\Database\Seeders\DistrictSeeder;
 use AnuzPandey\LaravelNepalGeo\Database\Seeders\CitySeeder;
 use AnuzPandey\LaravelNepalGeo\Database\Seeders\StateSeeder;
 
@@ -66,7 +66,7 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         $this->call([
-            ProvinceSeeder::class,
+            StateSeeder::class,
             DistrictSeeder::class,
             CitySeeder::class,
         ]);
