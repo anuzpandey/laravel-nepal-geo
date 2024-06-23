@@ -10,16 +10,13 @@ class LaravelNepalGeoServiceProvider extends PackageServiceProvider
 {
     public function configurePackage(Package $package): void
     {
-        /*
-         * This class is a Package Service Provider
-         *
-         * More info: https://github.com/spatie/laravel-package-tools
-         */
         $package
             ->name('laravel-nepal-geo')
             ->hasConfigFile()
-            ->hasViews()
-            ->hasMigration('create_laravel-nepal-geo_table')
-            ->hasCommand(LaravelNepalGeoCommand::class);
+            ->hasMigrations([
+                '0002_02_02_000001_create_states_table',
+                '0002_02_02_000002_create_districts_table',
+                '0002_02_02_000003_create_cities_table',
+            ]);
     }
 }
