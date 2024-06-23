@@ -15,9 +15,9 @@ class LaravelNepalGeoServiceProvider extends PackageServiceProvider
             ->name('laravel-nepal-geo')
             ->hasConfigFile()
             ->hasMigrations([
-                '0002_02_02_000001_create_states_table',
-                '0002_02_02_000002_create_districts_table',
-                '0002_02_02_000003_create_cities_table',
+                'create_states_table',
+                'create_districts_table',
+                'create_cities_table',
             ]);
     }
 }
