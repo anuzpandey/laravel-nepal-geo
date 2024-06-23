@@ -17,7 +17,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Bhojpur',
                 'name_np' => 'भोजपुर',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 05:24:29',
             ],
@@ -26,7 +26,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dhankuta',
                 'name_np' => 'धनकुटा',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 05:25:24',
             ],
@@ -35,7 +35,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Ilam',
                 'name_np' => 'ईलाम',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:20',
                 'updated_at' => '2019-10-07 05:25:35',
             ],
@@ -44,7 +44,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Jhapa',
                 'name_np' => 'झापा',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:26:06',
             ],
@@ -53,7 +53,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Khotang',
                 'name_np' => 'खोटाङ',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:26:52',
             ],
@@ -62,7 +62,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Morang',
                 'name_np' => 'मोरङ',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:27:22',
             ],
@@ -71,7 +71,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Okhaldhunga',
                 'name_np' => 'ओखलढुंगा',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:27:40',
             ],
@@ -80,7 +80,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Panchthar',
                 'name_np' => 'पाँचथर',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:27:55',
             ],
@@ -89,7 +89,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Sankhuwasabha',
                 'name_np' => 'संखुवासभा',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:29:58',
             ],
@@ -98,7 +98,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Solukhumbu',
                 'name_np' => 'सोलुखुम्बु',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:28:06',
             ],
@@ -107,7 +107,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Sunsari',
                 'name_np' => 'सुनसरी',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:30:11',
             ],
@@ -116,7 +116,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Taplejung',
                 'name_np' => 'ताप्लेजुङ',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:30:27',
             ],
@@ -125,7 +125,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Terhathum',
                 'name_np' => 'तेह्रथुम',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:21',
                 'updated_at' => '2019-10-07 05:30:44',
             ],
@@ -134,7 +134,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Udayapur',
                 'name_np' => 'उदयपुर',
 
-                'province_id' => 1,
+                'state_id' => 1,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:31:16',
             ],
@@ -143,7 +143,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Bara',
                 'name_np' => 'बारा',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:31:28',
             ],
@@ -152,7 +152,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dhanusa',
                 'name_np' => 'धनुषा',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:32:28',
             ],
@@ -161,7 +161,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Mahottari',
                 'name_np' => 'महोत्तरी',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:32:41',
             ],
@@ -170,7 +170,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Parsa',
                 'name_np' => 'पर्सा',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:01',
             ],
@@ -179,7 +179,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Rautahat',
                 'name_np' => 'रौतहट',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:19',
             ],
@@ -188,7 +188,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Saptari',
                 'name_np' => 'सप्तरी',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:32',
             ],
@@ -197,7 +197,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Sarlahi',
                 'name_np' => 'सर्लाही',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:22',
                 'updated_at' => '2019-10-07 05:33:46',
             ],
@@ -206,7 +206,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Siraha',
                 'name_np' => 'सिराहा',
 
-                'province_id' => 2,
+                'state_id' => 2,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:00',
             ],
@@ -215,7 +215,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Bhaktapur',
                 'name_np' => 'भक्तपुर',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:30',
             ],
@@ -224,7 +224,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Chitwan',
                 'name_np' => 'चितवन',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:40',
             ],
@@ -233,7 +233,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dhading',
                 'name_np' => 'धादिङ',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:34:53',
             ],
@@ -242,7 +242,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dholkha',
                 'name_np' => 'दोलखा',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:06',
             ],
@@ -251,7 +251,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Kathmandu',
                 'name_np' => 'काठमाडौं',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:19',
             ],
@@ -260,7 +260,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Kavrepalanchok',
                 'name_np' => 'काभ्रेपलाञ्चोक',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:47',
             ],
@@ -269,7 +269,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Lalitpur',
                 'name_np' => 'ललितपुर',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:23',
                 'updated_at' => '2019-10-07 05:35:58',
             ],
@@ -278,7 +278,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Makwanpur',
                 'name_np' => 'मकवानपुर',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:36:09',
             ],
@@ -287,7 +287,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Nuwakot',
                 'name_np' => 'नुवाकोट',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:01',
             ],
@@ -296,7 +296,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Ramechhap',
                 'name_np' => 'रामेछाप',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:12',
             ],
@@ -305,7 +305,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Rasuwa',
                 'name_np' => 'रसुवा',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:30',
             ],
@@ -314,7 +314,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Sindhuli',
                 'name_np' => 'सिन्धुली',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:39:47',
             ],
@@ -323,7 +323,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Sindhupalchok',
                 'name_np' => 'सिन्धुपाल्चोक',
 
-                'province_id' => 3,
+                'state_id' => 3,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:01',
             ],
@@ -332,7 +332,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Baglung',
                 'name_np' => 'बाग्लुङ',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:14',
             ],
@@ -341,7 +341,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Gorkha',
                 'name_np' => 'गोरखा',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:30',
             ],
@@ -350,7 +350,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Kaski',
                 'name_np' => 'कास्की',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:42',
             ],
@@ -359,7 +359,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Lamjung',
                 'name_np' => 'लमजुङ',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:40:57',
             ],
@@ -368,7 +368,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Manang',
                 'name_np' => 'मनाङ',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:41:54',
             ],
@@ -377,7 +377,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Mustang',
                 'name_np' => 'मुस्ताङ',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:24',
                 'updated_at' => '2019-10-07 05:42:07',
             ],
@@ -386,7 +386,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Myagdi',
                 'name_np' => 'म्याग्दी',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:42:23',
             ],
@@ -395,7 +395,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Nawalpur',
                 'name_np' => 'नवलपुर',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 10:03:52',
             ],
@@ -404,7 +404,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Parbat',
                 'name_np' => 'पर्बत',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:42:59',
             ],
@@ -413,7 +413,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Syangja',
                 'name_np' => 'स्याङ्जा',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:43:10',
             ],
@@ -422,7 +422,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Tanahu',
                 'name_np' => 'तनहुँ',
 
-                'province_id' => 4,
+                'state_id' => 4,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:43:25',
             ],
@@ -431,7 +431,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Arghakhanchi',
                 'name_np' => 'अर्घाखाँची',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:45:09',
             ],
@@ -440,7 +440,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Banke',
                 'name_np' => 'बाँके',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:49:23',
             ],
@@ -449,7 +449,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Bardiya',
                 'name_np' => 'बर्दिया',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:49:35',
             ],
@@ -458,7 +458,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dang Deukhuri',
                 'name_np' => 'दाङ',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:49:54',
             ],
@@ -467,7 +467,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Gulmi',
                 'name_np' => 'गुल्मी',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:25',
                 'updated_at' => '2019-10-07 05:50:05',
             ],
@@ -476,7 +476,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Kapilvastu',
                 'name_np' => 'कपिलवस्तु',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:51:39',
             ],
@@ -485,7 +485,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Nawalparasi',
                 'name_np' => 'नवलपरासी',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:51:50',
             ],
@@ -494,7 +494,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Palpa',
                 'name_np' => 'पाल्पा',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:03',
             ],
@@ -503,7 +503,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Pyuthan',
                 'name_np' => 'प्यूठान',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:16',
             ],
@@ -512,7 +512,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Rolpa',
                 'name_np' => 'रोल्पा',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:30',
             ],
@@ -521,7 +521,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Rukum',
                 'name_np' => 'रुकुम',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:38',
             ],
@@ -530,7 +530,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Rupandehi',
                 'name_np' => 'रुपन्देही',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:52:50',
             ],
@@ -539,7 +539,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dailekh',
                 'name_np' => 'दैलेख',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:26',
                 'updated_at' => '2019-10-07 05:54:58',
             ],
@@ -548,7 +548,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dolpa',
                 'name_np' => 'डोल्पा',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:55:43',
             ],
@@ -557,7 +557,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Humla',
                 'name_np' => 'हुम्ला',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:55:58',
             ],
@@ -566,7 +566,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Jajarkot',
                 'name_np' => 'जाजरकोट',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:56:43',
             ],
@@ -575,7 +575,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Jumla',
                 'name_np' => 'जुम्ला',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:56:59',
             ],
@@ -584,7 +584,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Kalikot',
                 'name_np' => 'कालिकोट',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:57:10',
             ],
@@ -593,7 +593,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Mugu',
                 'name_np' => 'मुगु',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:57:20',
             ],
@@ -602,7 +602,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Salyan',
                 'name_np' => 'सल्यान',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:59:02',
             ],
@@ -611,7 +611,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Surkhet',
                 'name_np' => 'सुर्खेत',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 05:59:10',
             ],
@@ -620,7 +620,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Achham',
                 'name_np' => 'अछाम',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 06:00:47',
             ],
@@ -629,7 +629,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Baitadi',
                 'name_np' => 'बैतडी',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:27',
                 'updated_at' => '2019-10-07 06:01:02',
             ],
@@ -638,7 +638,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Bajhang',
                 'name_np' => 'बझाङ',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:01:19',
             ],
@@ -647,7 +647,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Bajura',
                 'name_np' => 'बाजुरा',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:01:31',
             ],
@@ -656,7 +656,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Darchula',
                 'name_np' => 'दार्चुला',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:03:59',
             ],
@@ -665,7 +665,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Doti',
                 'name_np' => 'डोटी',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-07 06:04:11',
             ],
@@ -674,7 +674,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Kailali',
                 'name_np' => 'कैलाली',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:42:18',
             ],
@@ -683,7 +683,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Kanchanpur',
                 'name_np' => 'कंचनपुर',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-09-27 11:31:28',
                 'updated_at' => '2019-10-11 05:42:27',
             ],
@@ -692,7 +692,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Dadeldhura',
                 'name_np' => 'डडेलधुरा',
 
-                'province_id' => 7,
+                'state_id' => 7,
                 'created_at' => '2019-10-11 05:57:22',
                 'updated_at' => '2019-10-11 05:57:22',
             ],
@@ -701,7 +701,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Rukum ( Pashchim)',
                 'name_np' => 'रुकुम ( पश्चिम )',
 
-                'province_id' => 6,
+                'state_id' => 6,
                 'created_at' => '2019-10-11 06:55:02',
                 'updated_at' => '2019-12-26 20:44:29',
             ],
@@ -710,7 +710,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Nawalpur',
                 'name_np' => 'नवलपुर',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-04-04 16:10:36',
                 'updated_at' => '2019-04-04 16:10:36',
             ],
@@ -719,7 +719,7 @@ class DistrictSeeder extends Seeder
                 'name' => 'Parasi',
                 'name_np' => 'परासी',
 
-                'province_id' => 5,
+                'state_id' => 5,
                 'created_at' => '2019-04-04 16:11:15',
                 'updated_at' => '2019-04-04 16:11:15',
             ],
