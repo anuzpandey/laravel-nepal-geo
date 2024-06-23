@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-nepal-geo` will be documented in this file.
 
+## Release 1.2.1 - 2024-06-23
+
+- :hammer: fix: `namespace` and schema name for `cities`.
+
 ## Release 1.2.0 - 2024-06-23
 
 - :hammer: fix: Seeder namespace.
