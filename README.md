@@ -18,14 +18,14 @@ composer require anuzpandey/laravel-nepal-geo
 You can publish and run the migrations with:
 
 ```bash
-php artisan vendor:publish --tag="laravel-nepal-geo-migrations"
+php artisan vendor:publish --tag="nepal-geo-migrations"
 php artisan migrate
 ```
 
 You can publish the config file with:
 
 ```bash
-php artisan vendor:publish --tag="laravel-nepal-geo-config"
+php artisan vendor:publish --tag="nepal-geo-config"
 ```
 
 This is the contents of the published config file:
