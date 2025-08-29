@@ -2,6 +2,11 @@
 
 All notable changes to `laravel-nepal-geo` will be documented in this file.
 
+## Release 1.3.0 - 2025-08-29
+
+- Support for Laravel 12
+  Thank you @nepaliayush for the contribution.
+
 ## Release 1.2.5 - 2024-06-23
 
 :hammer: fix: `DistrictSeeder` referencing to `province_id`.
